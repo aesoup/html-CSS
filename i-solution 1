@@ -1,0 +1,1710 @@
+
+<!DOCTYPE html>
+<!--[if lt IE 10 ]>
+<html lang="ko-KR" class="old-ie no-js">
+<![endif]-->
+<!--[if !(IE 6) | !(IE 7) | !(IE 8)  ]><!-->
+<html lang="ko-KR" class="no-js">
+<!--<![endif]-->
+<head>
+	<meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<meta name="naver-site-verification" content="bbda16b236e2ea09c4e8bd894e3880385a30f955"/>
+<title>아이솔루션</title>
+<meta name="description" content="아이솔루션은 기업의 Inovation 혁신, Investment 투자, Improvemnet 향상을 함께 합니다">
+		<link rel="profile" href="http://gmpg.org/xfn/11" />
+	<link rel="pingback" href="http://zetaplan.com/xmlrpc.php" />
+	<!--[if IE]>
+	<script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+	<![endif]-->
+	<title>I solution 에 오신걸 환영합니다</title>
+
+<!-- WordPress KBoard plugin 5.0 - http://www.cosmosfarm.com/products/kboard -->
+<link rel="alternate" href="http://zetaplan.com/wp-content/plugins/kboard/rss.php" type="application/rss+xml" title="Zeta Plan Investment 에 오신걸 환영합니다 &raquo; KBoard 통합 피드">
+<!-- WordPress KBoard plugin 5.0 - http://www.cosmosfarm.com/products/kboard -->
+
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="I solution 에 오신걸 환영합니다 &raquo; 피드" href="http://zetaplan.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="I solution 에 오신걸 환영합니다 &raquo; 댓글 피드" href="http://zetaplan.com/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/zetaplan.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.2.17"}};
+			!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])?!1:!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([55357,56424,55356,57342,8205,55358,56605,8205,55357,56424,55356,57340],[55357,56424,55356,57342,8203,55358,56605,8203,55357,56424,55356,57340])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='dashicons-css'  href='http://zetaplan.com/wp-includes/css/dashicons.min.css?ver=5.2.17' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-jquery-ui-dialog-css'  href='http://zetaplan.com/wp-includes/css/jquery-ui-dialog.min.css?ver=5.2.17' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-block-library-css'  href='http://zetaplan.com/wp-includes/css/dist/block-library/style.min.css?ver=5.2.17' type='text/css' media='all' />
+<link rel='stylesheet' id='layerslider-css'  href='http://zetaplan.com/wp-content/plugins/LayerSlider/static/css/layerslider.css?ver=5.6.2' type='text/css' media='all' />
+<link rel='stylesheet' id='ls-google-fonts-css'  href='http://fonts.googleapis.com/css?family=Lato:100,300,regular,700,900%7COpen+Sans:300%7CIndie+Flower:regular%7COswald:300,regular,700&#038;subset=latin%2Clatin-ext' type='text/css' media='all' />
+<link rel='stylesheet' id='contact-form-7-css'  href='http://zetaplan.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=4.7' type='text/css' media='all' />
+<link rel='stylesheet' id='go-pricing-styles-css'  href='http://zetaplan.com/wp-content/plugins/go_pricing/assets/css/go_pricing_styles.css?ver=3.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='JTPOP-popup-show-css'  href='http://zetaplan.com/wp-content/plugins/jt-bad-ux-popup.1.0.14/css/jt-popup-show.css?ver=1.1.4' type='text/css' media='all' />
+<link rel='stylesheet' id='JTPOP-font-awesome-css'  href='http://zetaplan.com/wp-content/plugins/jt-bad-ux-popup.1.0.14/css/font-awesome.min.css?ver=4.1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='slick-css'  href='http://zetaplan.com/wp-content/plugins/jt-bad-ux-popup.1.0.14/css/vendors/slider/slick/slick.css?ver=1.6.0' type='text/css' media='all' />
+<link rel='stylesheet' id='tp_twitter_plugin_css-css'  href='http://zetaplan.com/wp-content/plugins/recent-tweets-widget/tp_twitter_plugin.css?ver=1.0' type='text/css' media='screen' />
+<link rel='stylesheet' id='rs-plugin-settings-css'  href='http://zetaplan.com/wp-content/plugins/revslider/public/assets/css/settings.css?ver=5.1.2' type='text/css' media='all' />
+<style id='rs-plugin-settings-inline-css' type='text/css'>
+#rs-demo-id {}
+</style>
+<link rel='stylesheet' id='logo_showcase_slick_style-css'  href='http://zetaplan.com/wp-content/plugins/wp-logo-showcase-responsive-slider-slider/assets/css/slick.css?ver=1.2.1' type='text/css' media='all' />
+<link rel='stylesheet' id='logo_showcase_style-css'  href='http://zetaplan.com/wp-content/plugins/wp-logo-showcase-responsive-slider-slider/assets/css/logo-showcase.css?ver=1.2.1' type='text/css' media='all' />
+<link rel='stylesheet' id='js_composer_front-css'  href='http://zetaplan.com/wp-content/plugins/js_composer/assets/css/js_composer.min.css?ver=4.8.1' type='text/css' media='all' />
+<link rel='stylesheet' id='dt-web-fonts-css'  href='http://fonts.googleapis.com/css?family=Raleway%3A400%2C500%2C600%7COpen+Sans%3A400%2C600%7CAbril+Fatface&#038;ver=5.2.17' type='text/css' media='all' />
+<link rel='stylesheet' id='dt-main-css'  href='http://zetaplan.com/wp-content/themes/dt-the7/css/main.min.css?ver=3.0.1' type='text/css' media='all' />
+<!--[if lt IE 10]>
+<link rel='stylesheet' id='dt-old-ie-css'  href='http://zetaplan.com/wp-content/themes/dt-the7/css/old-ie.css?ver=3.0.1' type='text/css' media='all' />
+<![endif]-->
+<link rel='stylesheet' id='dt-awsome-fonts-css'  href='http://zetaplan.com/wp-content/themes/dt-the7/fonts/FontAwesome/css/font-awesome.min.css?ver=3.0.1' type='text/css' media='all' />
+<link rel='stylesheet' id='dt-fontello-css'  href='http://zetaplan.com/wp-content/themes/dt-the7/fonts/fontello/css/fontello.min.css?ver=3.0.1' type='text/css' media='all' />
+<!--[if lt IE 10]>
+<link rel='stylesheet' id='dt-custom-old-ie.less-css'  href='http://zetaplan.com/wp-content/uploads/wp-less/dt-the7/css/custom-old-ie-c0d44eb5f0.css?ver=3.0.1' type='text/css' media='all' />
+<![endif]-->
+<link rel='stylesheet' id='dt-custom.less-css'  href='http://zetaplan.com/wp-content/uploads/wp-less/dt-the7/css/custom-c0d44eb5f0.css?ver=3.0.1' type='text/css' media='all' />
+<link rel='stylesheet' id='dt-media.less-css'  href='http://zetaplan.com/wp-content/uploads/wp-less/dt-the7/css/media-c0d44eb5f0.css?ver=3.0.1' type='text/css' media='all' />
+<link rel='stylesheet' id='style-css'  href='http://zetaplan.com/wp-content/themes/dt-the7/style.css?ver=3.0.1' type='text/css' media='all' />
+<style id='style-inline-css' type='text/css'>
+#main {
+  padding:20px 0 0 0 !important;
+}
+
+.sub-zero-padding-bottom .wpb_column .wpb_wrapper {
+  padding-bottom:0px !important;
+}
+/* 서브페이지 배경&크기  */
+.subpage-row .wpb_column.vc_column_container.vc_col-sm-12 .wpb_wrapper {
+  background-color:#ffffff;
+  padding: 20px 20px 20px 20px;
+}
+
+
+.masthead:not(.side-header):not(.side-header-menu-icon) .top-bar,
+.masthead:not(.side-header):not(.side-header-menu-icon) .header-bar,
+.masthead:not(.side-header):not(.side-header-menu-icon) .mobile-header-bar {
+  max-width: 1205px;
+}
+
+.top-header a .decoration-line {
+  display:block !important;
+  background-color: #FFA987 !important; /* #e07033 */
+  opacity: 1 !important;
+}
+
+.classic-header .branding .mini-widgets:last-child {
+  padding: 20px 0px 0 0px !important;
+}
+
+/* 사이드바 */
+.sidebar {
+  padding-right:0px !important;
+}
+@media screen and (max-width: 950px) {
+  .sidebar-right .sidebar,
+  .sidebar-left .sidebar,
+  .sidebar-divider-off.sidebar-right .sidebar,
+  .sidebar-divider-off.sidebar-left .sidebar {
+    padding-right: 20px !important;
+    padding-left: 20px !important;
+  }
+}
+
+.widget.widget_text {
+  padding-top:0px !important;
+  padding-bottom:10px !important;
+}
+.custom-menu .widget_pages>ul, .menu {
+/*  padding: 0 0 0 0 !important; */
+}
+.widget.widget_nav_menu {
+/*  border:1px solid #ECECEC !important; */
+  padding-top:10px !important;
+  padding-bottom:10px !important;
+  margin-bottom:0px !important;
+}
+
+.widget.widget_nav_menu ul li:before {    
+font-family: 'FontAwesome';
+font-size:14px;
+content: '\f138';
+margin:0 5px 0 10px;
+color: #bbb;
+}
+.widget.widget_nav_menu ul li a {
+  margin-left:0px !important;
+}
+.widget.widget_nav_menu ul {
+  background-color:#ffffff !important;
+  border:1px solid #E4E4E4 !important;
+  /* border-radius:5px !important; */
+  padding:0px !important;
+}
+.widget.widget_nav_menu ul li {
+   margin: 0 0 0 0 !important;
+   padding: 10px 10px 10px 10px !important;
+}
+.widget.widget_nav_menu ul li a {
+  padding-right:30px;
+}
+.widget.widget_nav_menu .current-menu-item {
+  background-color:#e38000 !important;
+}
+.widget.widget_nav_menu .current-menu-item a {
+  color:#ffffff !important;
+}
+.widget.widget_nav_menu .current-menu-item:before {
+  color:#ffffff !important;
+}
+
+/* 메인페이지 최근글 */
+.main-board-latest1, .main-board-latest2, .main-board-latest3, .main-board-latest4, .main-board-latest5, .main-board-latest6 {
+  /* border:1px solid #ddd; */
+  /* border-radius:3px; */
+  /* padding:0px 20px 0px 20px !important; */
+}
+
+
+
+
+.main-board-latest1{background-color:#ffffff;border-top:2px solid #e35c33;}
+.main-board-latest2{background-color:#ffffff;border-top:2px solid #e35c33;}
+.main-board-latest3{background-color:#ffffff;border-top:2px solid #e38000;}
+.main-board-latest4{background-color:#ffffff;border-top:2px solid #e38000;}
+.main-board-latest5{background-color:#ffffff;border-top:2px solid #8c5d55;}
+.main-board-latest6{background-color:#ffffff;border-top:2px solid #8c5d55;}
+.main-board-latest1 h5 {color:#e35c33 !important;padding-top:10px;padding-bottom:10px;}
+.main-board-latest2 h5 {color:#e35c33 !important;padding-top:10px;padding-bottom:10px;}
+.main-board-latest3 h5 {color:#e38000 !important;padding-top:10px;padding-bottom:10px;}
+.main-board-latest4 h5 {color:#e38000 !important;padding-top:10px;padding-bottom:10px;}
+.main-board-latest5 h5 {color:#8c5d55 !important;padding-top:10px;padding-bottom:10px;}
+.main-board-latest6 h5 {color:#8c5d55 !important;padding-top:10px;padding-bottom:10px;}
+.board-more {margin-top:10px;}
+.main-board-latest1 #kboard-default-latest td,
+.main-board-latest2 #kboard-default-latest td,
+.main-board-latest3 #kboard-default-latest td,
+.main-board-latest4 #kboard-default-latest td,
+.main-board-latest5 #kboard-default-latest td,
+.main-board-latest6 #kboard-default-latest td, {
+  border-top:none !important;
+  border-bottom:none !important;
+}
+.main-board-latest1 #kboard-default-latest table,
+.main-board-latest2 #kboard-default-latest table,
+.main-board-latest3 #kboard-default-latest table,
+.main-board-latest4 #kboard-default-latest table,
+.main-board-latest5 #kboard-default-latest table,
+.main-board-latest6 #kboard-default-latest table {
+  border-bottom:none !important;
+  border-top:1px solid #e3e3e3 !important;
+}
+
+#kboard-default-latest table td {border-top:none !important;}
+
+.kboard-latest-title a {
+  text-decoration:none  !important;
+  color:#7e7e7e !important;
+}
+.kboard-latest-title a:hover {
+  text-decoration:underline  !important;
+  color:#7e7e7e !important;
+}
+.board-latest-title {
+  border: none !important;
+}
+.board-latest-title.left {float:left;}
+.board-more a {
+  font-size:11px;
+  font-weight:bold;
+  text-decoration:none !important;
+  color:#bbbbbb !important;
+}
+.board-more a:hover {
+  text-decoration:none !important;
+  color:#bbbbbb !important;
+}
+.board-more.right{float:right;}
+.board-more i {color:#bbbbbb;}
+.board-clearfix {
+  clear:both;
+}
+
+/* 탭  */
+.main-right-tab  .vc_tta-tab a {
+  padding:5px 15px 5px 15px !important;
+}
+
+
+.main-board-tab ul li a {
+  padding:10px !important;
+}
+.main-board-tab1 .vc_tta-panel-body,
+.main-board-tab2 .vc_tta-panel-body,
+.main-board-tab3 .vc_tta-panel-body,
+.main-board-tab4 .vc_tta-panel-body,
+.main-board-tab5 .vc_tta-panel-body,
+.main-board-tab6 .vc_tta-panel-body {
+  background-color:#ffffff !important;
+
+}
+
+
+/* Blog */
+.article-top-bar {
+  display:none;
+}
+
+/* Media grid */
+.vc_grid.vc_row .vc_grid-item {
+ padding-left:5px !important;
+ padding-right:5px !important;
+}
+
+.benefits-grid .wf-cell {
+  padding-left:10px !important;
+  padding-right:10px !important;
+}
+.benefits-grid .wf-cell h6 {
+  font-size:13px !important;
+}
+
+
+.vc_custom_1449559368519 .wpb_column.vc_column_container {
+ padding-left:0px !important;
+ padding-right:0px !important;
+}
+
+.logo_showcase {
+  margin:10px 0px 0px 0px !important;
+  padding:0px 0px 0px 0px !important;
+}
+
+.logo_showcase .slick-prev {
+  display:none !important;
+}
+.logo_showcase .slick-next {
+  display:none !important;
+}
+
+/* Topbar Language */
+.topbar-lang {
+  font-size:11px;
+  text-decoration:none !important;
+  color:#3A3A3A !important;
+}
+.topbar-lang:hover {
+  text-decoration:none !important;
+  color:#3A3A3A !important;
+}
+
+
+/* 하단 파트너 */
+@media screen and (max-width: 950px) {
+  #bottom_partner_warp {
+    left:0px !important;
+    top:-1px !important;
+    padding-left:20px !important;
+    padding-right:20px !important;
+  }
+  #bottom_partner_content {
+    margin-left:20px !important;
+    margin-right:20px !important;
+  }
+}
+
+
+/* 메인 우측 배너 */
+.main-img-right-banner {
+  border:1px solid #E4E4E4 !important;
+  border-radius:0px !important;
+}
+@media screen and (min-width: 951px) {
+  .main-img-right-banner {
+    /* position:relative;left:-10px !important; */
+  }
+  .main-img-right-banner img {
+    width:150px !important;
+  }
+}
+@media screen and (max-width: 950px) {
+  .main-img-right-banner {
+    margin-top:20px;
+  }
+  .main-img-right-banner img {
+    width:200px !important;
+  }
+}
+
+
+/* 메인 슬라이드 백그라운드 색상 */
+.wpb_layerslider_element.wpb_content_element {
+  background-color:#f0f0f0 !important;
+}
+
+/* 메인 탭 */
+.vc_tta-panel {
+  background-color:#ffffff;
+  border-left:1px solid #e4e4e4 !important;
+  border-right:1px solid #e4e4e4 !important;
+  border-bottom:1px solid #e4e4e4 !important;
+}
+.vc_tta-tab a {
+  border:none !important;
+}
+.vc_tta-tab.vc_active a {
+  border-top:1px solid #e4e4e4 !important;
+  border-left:1px solid #e4e4e4 !important;
+  border-right:1px solid #e4e4e4 !important;
+  background-color:#ffffff !important;
+}
+
+.vc_tta-panel-body {
+  padding-bottom:10px !important;
+}
+
+
+/* 메인 프리미엄 서비스 */
+#benefits-grid-1 {
+  background-color:#ffffff;
+  padding-top:20px;
+  margin: 0px 0px 0px 0px !important;
+  border:1px solid #e4e4e4;
+}
+#benefits-grid-1 .wf-cell {
+  margin-bottom:0px !important;
+}
+
+
+/* Contact Form 체크박스 줄바꿈 안짤리게 처리 */
+span.wpcf7-list-item {
+float:left;
+display:block;
+}
+
+/* Blog */
+#content article.post {
+  background-color: #ffffff !important;
+  padding: 20px !important;
+}
+#page .page-title {
+  border-bottom:1px solid #bbb;
+  background-color:#fbfbfb;
+  min-height:70px !important;
+}
+#page .page-title .wf-table {
+  height:70px !important;
+}
+
+
+/* 글 사이드바 */
+#search-3.widget_search {
+  padding-top:10px !important;
+  padding-bottom:10px !important;
+}
+
+#categories-3.widget_categories {
+  margin-top:10px;
+  border:1px solid #E4E4E4;
+  background-color:#ffffff;
+  padding:10px;
+}
+#categories-3.widget_categories .widget-title {
+  border-bottom: 1px solid #e4e4e4;
+}
+
+#archives-3.widget_archive {
+  margin-top:30px;
+  margin-bottom:20px;
+  border:1px solid #E4E4E4;
+  background-color:#ffffff;
+  padding:10px;
+}
+#archives-3.widget_archive .widget-title {
+  border-bottom: 1px solid #e4e4e4;
+}
+#text-32.widget_text {
+  margin-bottom:20px;
+}
+
+/* 메인메뉴  */
+.main-nav {
+  height:50px !important;
+}
+.main-nav > li{
+  background-color:#DC3400;
+}
+.main-nav > li:hover {
+  background-color:#843928;
+}
+.main-nav > li.current-menu-item {
+  background-color:#843928;
+}
+.main-nav > li.act {
+  background-color:#843928 !important;
+}
+.sub-nav {
+  padding:0px !important;
+}
+.sub-nav li a:hover {
+  color:#DC3400 !important;
+}
+.sub-nav li {
+  border-bottom:1px solid #ebebeb;
+}
+.sub-nav li:last-child {
+  border-bottom:none !important;
+}
+
+/* 팬시 타이틀 */ 
+.dt-fancy-separator.style-disabled .dt-fancy-title.bg-on {
+  width:100%;
+  padding:0px;
+  margin:0px;
+}
+
+/* SVG버그 처리 */
+.top-header .main-nav.level-arrows-on > li.has-children > a .menu-text:after {
+  background-image: url("data:image/svg+xml,%3Csvg version='1.1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' x='0px' y='0px' width='8px' height='8px' viewBox='0 0 8 8' fill='%23ffffff' enable-background='new 0 0 8 8' xml:space='preserve'%3E%3Cpolygon points='7.825,2.5 6.976,1.6 4.289,4.417 3.66,4.417 0.975,1.6 0.176,2.5 3.66,6 3.975,6 4.289,6 '/%3E%3C/svg%3E");
+}
+.sub-sideways .main-nav.level-arrows-on > li.has-children > a:after {
+  background-image: url("data:image/svg+xml,%3Csvg version='1.1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' x='0px' y='0px' width='14px' height='14px' viewBox='0 0 14 14' enable-background='new 0 0 14 14' fill='rgba(255,255,255,0.17)' xml:space='preserve'%3E%3Cpolygon points='7.35,1 5.935,2.414 10.52,7 5.935,11.586 7.35,13 13,7.353 13,7 13,6.646 '/%3E%3C/svg%3E");
+}
+.sub-downwards .main-nav.level-arrows-on > li.has-children > a:after,
+.sub-downwards .next-level-button,
+.sub-downwards .main-nav > li.menu-item-language > a:after {
+  background-image: url("data:image/svg+xml,%3Csvg version='1.1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' x='0px' y='0px' width='14px' height='14px' viewBox='0 0 14 14' enable-background='new 0 0 14 14' fill='rgba(255,255,255,0.17)' xml:space='preserve'%3E%3Cpolygon points='14,6 8,6 8,0 6,0 6,6 0,6 0,8 6,8 6,14 8,14 8,8 14,8 '/%3E%3C/svg%3E");
+}
+.top-header .main-nav.level-arrows-on > li.has-children:not(.act) > a:hover .menu-text:after,
+.top-header .main-nav.level-arrows-on > li.dt-hovered.has-children:not(.act) > a .menu-text:after {
+  background-image: url("data:image/svg+xml,%3Csvg version='1.1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' x='0px' y='0px' width='8px' height='8px' viewBox='0 0 8 8' fill='%23ffffff' enable-background='new 0 0 8 8' xml:space='preserve'%3E%3Cpolygon points='7.825,2.5 6.976,1.6 4.289,4.417 3.66,4.417 0.975,1.6 0.176,2.5 3.66,6 3.975,6 4.289,6 '/%3E%3C/svg%3E");
+}
+.top-header .main-nav.level-arrows-on > li.has-children.act > a .menu-text:after {
+  background-image: url("data:image/svg+xml,%3Csvg version='1.1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' x='0px' y='0px' width='8px' height='8px' viewBox='0 0 8 8' fill='%23ffffff' enable-background='new 0 0 8 8' xml:space='preserve'%3E%3Cpolygon points='7.825,2.5 6.976,1.6 4.289,4.417 3.66,4.417 0.975,1.6 0.176,2.5 3.66,6 3.975,6 4.289,6 '/%3E%3C/svg%3E");
+}
+.light-icons .mini-search .submit:before {
+  background-image: url("data:image/svg+xml,%3Csvg version='1.1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' x='0px' y='0px' width='16px' height='16px' viewBox='0 0 16 16' enable-background='new 0 0 16 16' xml:space='preserve'%3E%3Cpath fill='%233a3a3a' d='M0.5,6.689c0,3.415,2.77,6.187,6.187,6.187c1.47,0,2.822-0.518,3.883-1.375l3.807,3.806c0.257,0.259,0.511,0.161,0.771-0.098c0.256-0.26,0.418-0.578,0.162-0.835l-3.808-3.805c0.854-1.062,1.372-2.412,1.372-3.883c0-3.417-2.769-6.187-6.188-6.187C3.269,0.501,0.5,3.272,0.5,6.689z M1.653,6.703c0-2.786,2.265-5.05,5.049-5.05c2.787,0,5.05,2.263,5.05,5.05s-2.262,5.049-5.05,5.049C3.917,11.752,1.653,9.487,1.653,6.703z'/%3E%3C/svg%3E");
+}
+.light-icons .branding .mini-search .submit:before,
+.light-icons .mixed-header .mini-search .submit:before,
+.light-icons .mobile-mini-widgets .mini-search .submit:before {
+  background-image: url("data:image/svg+xml,%3Csvg version='1.1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' x='0px' y='0px' width='16px' height='16px' viewBox='0 0 16 16' enable-background='new 0 0 16 16' xml:space='preserve'%3E%3Cpath fill='%233a3a3a' d='M0.5,6.689c0,3.415,2.77,6.187,6.187,6.187c1.47,0,2.822-0.518,3.883-1.375l3.807,3.806c0.257,0.259,0.511,0.161,0.771-0.098c0.256-0.26,0.418-0.578,0.162-0.835l-3.808-3.805c0.854-1.062,1.372-2.412,1.372-3.883c0-3.417-2.769-6.187-6.188-6.187C3.269,0.501,0.5,3.272,0.5,6.689z M1.653,6.703c0-2.786,2.265-5.05,5.049-5.05c2.787,0,5.05,2.263,5.05,5.05s-2.262,5.049-5.05,5.049C3.917,11.752,1.653,9.487,1.653,6.703z'/%3E%3C/svg%3E");
+}
+.light-icons .dt-mobile-header .mini-search .submit:before {
+  background-image: url("data:image/svg+xml,%3Csvg version='1.1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' x='0px' y='0px' width='16px' height='16px' viewBox='0 0 16 16' enable-background='new 0 0 16 16' xml:space='preserve'%3E%3Cpath fill='%233a3a3a' d='M0.5,6.689c0,3.415,2.77,6.187,6.187,6.187c1.47,0,2.822-0.518,3.883-1.375l3.807,3.806c0.257,0.259,0.511,0.161,0.771-0.098c0.256-0.26,0.418-0.578,0.162-0.835l-3.808-3.805c0.854-1.062,1.372-2.412,1.372-3.883c0-3.417-2.769-6.187-6.188-6.187C3.269,0.501,0.5,3.272,0.5,6.689z M1.653,6.703c0-2.786,2.265-5.05,5.049-5.05c2.787,0,5.05,2.263,5.05,5.05s-2.262,5.049-5.05,5.049C3.917,11.752,1.653,9.487,1.653,6.703z'/%3E%3C/svg%3E");
+}
+.bold-icons .mini-search .submit:before {
+  background-image: url("data:image/svg+xml,%3Csvg version='1.1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' x='0px' y='0px' width='16px' height='16px' viewBox='0 0 16 16' enable-background='new 0 0 16 16' xml:space='preserve'%3E%3Cpath fill='%233a3a3a' d='M15.376,13.75l-3.985-4c0.586-0.916,1.032-2.171,1.032-3.333c0-3.263-2.675-5.917-5.961-5.917C3.175,0.5,0.5,3.154,0.5,6.417c0,3.263,2.675,5.919,5.962,5.919c1.113,0,2.272-0.4,3.163-0.93l4.049,3.955L15.376,13.75z M2.518,6.455c0-2.179,1.785-3.953,3.981-3.953c2.195,0,3.983,1.773,3.983,3.953c0,2.18-1.788,3.952-3.983,3.952C4.304,10.407,2.518,8.635,2.518,6.455z'/%3E%3C/svg%3E");
+}
+.bold-icons .branding .mini-search .submit:before,
+.bold-icons .mixed-header .mini-search .submit:before,
+.bold-icons .mobile-mini-widgets .mini-search .submit:before {
+  background-image: url("data:image/svg+xml,%3Csvg version='1.1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' x='0px' y='0px' width='16px' height='16px' viewBox='0 0 16 16' enable-background='new 0 0 16 16' xml:space='preserve'%3E%3Cpath fill='%233a3a3a' d='M15.376,13.75l-3.985-4c0.586-0.916,1.032-2.171,1.032-3.333c0-3.263-2.675-5.917-5.961-5.917C3.175,0.5,0.5,3.154,0.5,6.417c0,3.263,2.675,5.919,5.962,5.919c1.113,0,2.272-0.4,3.163-0.93l4.049,3.955L15.376,13.75z M2.518,6.455c0-2.179,1.785-3.953,3.981-3.953c2.195,0,3.983,1.773,3.983,3.953c0,2.18-1.788,3.952-3.983,3.952C4.304,10.407,2.518,8.635,2.518,6.455z'/%3E%3C/svg%3E");
+}
+.bold-icons .dt-mobile-header .mini-search .submit:before {
+  background-image: url("data:image/svg+xml,%3Csvg version='1.1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' x='0px' y='0px' width='16px' height='16px' viewBox='0 0 16 16' enable-background='new 0 0 16 16' xml:space='preserve'%3E%3Cpath fill='%233a3a3a' d='M15.376,13.75l-3.985-4c0.586-0.916,1.032-2.171,1.032-3.333c0-3.263-2.675-5.917-5.961-5.917C3.175,0.5,0.5,3.154,0.5,6.417c0,3.263,2.675,5.919,5.962,5.919c1.113,0,2.272-0.4,3.163-0.93l4.049,3.955L15.376,13.75z M2.518,6.455c0-2.179,1.785-3.953,3.981-3.953c2.195,0,3.983,1.773,3.983,3.953c0,2.18-1.788,3.952-3.983,3.952C4.304,10.407,2.518,8.635,2.518,6.455z'/%3E%3C/svg%3E");
+}
+.light-icons .mini-search .submit.act:before {
+  background-image: url("data:image/svg+xml,%3Csvg version='1.1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' x='0px' y='0px' width='16px' height='16px' viewBox='0 0 16 16' enable-background='new 0 0 16 16' xml:space='preserve'%3E%3Cpath fill='%233a3a3a' d='M13.36,2.818L8.5,7.669L3.636,2.818c-0.226-0.224-0.59-0.224-0.816,0c-0.225,0.226-0.224,0.592,0,0.816L7.669,8.5l-4.851,4.865c-0.226,0.226-0.224,0.59,0,0.814c0.226,0.227,0.59,0.227,0.817,0L8.5,9.331l4.865,4.848c0.223,0.228,0.59,0.228,0.815,0c0.226-0.224,0.226-0.591,0-0.813L9.33,8.5l4.851-4.864c0.226-0.226,0.226-0.593,0-0.817C13.955,2.594,13.588,2.594,13.36,2.818z'/%3E%3C/svg%3E");
+}
+.light-icons .branding .mini-search .submit.act:before,
+.light-icons .mixed-header .mini-search .submit.act:before,
+.light-icons .mobile-mini-widgets .mini-search .submit.act:before {
+  background-image: url("data:image/svg+xml,%3Csvg version='1.1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' x='0px' y='0px' width='16px' height='16px' viewBox='0 0 16 16' enable-background='new 0 0 16 16' xml:space='preserve'%3E%3Cpath fill='%233a3a3a' d='M13.36,2.818L8.5,7.669L3.636,2.818c-0.226-0.224-0.59-0.224-0.816,0c-0.225,0.226-0.224,0.592,0,0.816L7.669,8.5l-4.851,4.865c-0.226,0.226-0.224,0.59,0,0.814c0.226,0.227,0.59,0.227,0.817,0L8.5,9.331l4.865,4.848c0.223,0.228,0.59,0.228,0.815,0c0.226-0.224,0.226-0.591,0-0.813L9.33,8.5l4.851-4.864c0.226-0.226,0.226-0.593,0-0.817C13.955,2.594,13.588,2.594,13.36,2.818z'/%3E%3C/svg%3E");
+}
+.light-icons .dt-mobile-header .mini-search .submit.act:before {
+  background-image: url("data:image/svg+xml,%3Csvg version='1.1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' x='0px' y='0px' width='16px' height='16px' viewBox='0 0 16 16' enable-background='new 0 0 16 16' xml:space='preserve'%3E%3Cpath fill='%233a3a3a' d='M13.36,2.818L8.5,7.669L3.636,2.818c-0.226-0.224-0.59-0.224-0.816,0c-0.225,0.226-0.224,0.592,0,0.816L7.669,8.5l-4.851,4.865c-0.226,0.226-0.224,0.59,0,0.814c0.226,0.227,0.59,0.227,0.817,0L8.5,9.331l4.865,4.848c0.223,0.228,0.59,0.228,0.815,0c0.226-0.224,0.226-0.591,0-0.813L9.33,8.5l4.851-4.864c0.226-0.226,0.226-0.593,0-0.817C13.955,2.594,13.588,2.594,13.36,2.818z'/%3E%3C/svg%3E");
+}
+.bold-icons .mini-search .submit.act:before {
+  background-image: url("data:image/svg+xml,%3Csvg version='1.1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' x='0px' y='0px' width='16px' height='16px' viewBox='0 0 16 16' enable-background='new 0 0 16 16' fill='%233a3a3a' xml:space='preserve'%3E%3Cpath d='M2.294,3.564l11.031,11.061l1.384-1.311L3.646,2.271'/%3E%3Cpath d='M13.357,2.271L2.295,13.314l1.384,1.311L14.71,3.564'/%3E%3C/svg%3E");
+}
+.bold-icons .branding .mini-search .submit.act:before,
+.bold-icons .mixed-header .mini-search .submit.act:before,
+.bold-icons .mobile-mini-widgets .mini-search .submit.act:before {
+  background-image: url("data:image/svg+xml,%3Csvg version='1.1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' x='0px' y='0px' width='16px' height='16px' viewBox='0 0 16 16' enable-background='new 0 0 16 16' fill='%233a3a3a' xml:space='preserve'%3E%3Cpath d='M2.294,3.564l11.031,11.061l1.384-1.311L3.646,2.271'/%3E%3Cpath d='M13.357,2.271L2.295,13.314l1.384,1.311L14.71,3.564'/%3E%3C/svg%3E");
+}
+.bold-icons .dt-mobile-header .mini-search .submit.act:before {
+  background-image: url("data:image/svg+xml,%3Csvg version='1.1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' x='0px' y='0px' width='16px' height='16px' viewBox='0 0 16 16' enable-background='new 0 0 16 16' fill='%233a3a3a' xml:space='preserve'%3E%3Cpath d='M2.294,3.564l11.031,11.061l1.384-1.311L3.646,2.271'/%3E%3Cpath d='M13.357,2.271L2.295,13.314l1.384,1.311L14.71,3.564'/%3E%3C/svg%3E");
+}
+.light-icons .top-bar .mini-search .submit:before {
+  background-image: url("data:image/svg+xml,%3Csvg version='1.1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' x='0px' y='0px' width='16px' height='16px' viewBox='0 0 16 16' enable-background='new 0 0 16 16' xml:space='preserve'%3E%3Cpath fill='%23ffffff' d='M0.5,6.689c0,3.415,2.77,6.187,6.187,6.187c1.47,0,2.822-0.518,3.883-1.375l3.807,3.806c0.257,0.259,0.511,0.161,0.771-0.098c0.256-0.26,0.418-0.578,0.162-0.835l-3.808-3.805c0.854-1.062,1.372-2.412,1.372-3.883c0-3.417-2.769-6.187-6.188-6.187C3.269,0.501,0.5,3.272,0.5,6.689z M1.653,6.703c0-2.786,2.265-5.05,5.049-5.05c2.787,0,5.05,2.263,5.05,5.05s-2.262,5.049-5.05,5.049C3.917,11.752,1.653,9.487,1.653,6.703z'/%3E%3C/svg%3E");
+}
+.bold-icons .top-bar .mini-search .submit:before {
+  background-image: url("data:image/svg+xml,%3Csvg version='1.1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' x='0px' y='0px' width='16px' height='16px' viewBox='0 0 16 16' enable-background='new 0 0 16 16' xml:space='preserve'%3E%3Cpath fill='%23ffffff' d='M15.376,13.75l-3.985-4c0.586-0.916,1.032-2.171,1.032-3.333c0-3.263-2.675-5.917-5.961-5.917C3.175,0.5,0.5,3.154,0.5,6.417c0,3.263,2.675,5.919,5.962,5.919c1.113,0,2.272-0.4,3.163-0.93l4.049,3.955L15.376,13.75z M2.518,6.455c0-2.179,1.785-3.953,3.981-3.953c2.195,0,3.983,1.773,3.983,3.953c0,2.18-1.788,3.952-3.983,3.952C4.304,10.407,2.518,8.635,2.518,6.455z'/%3E%3C/svg%3E");
+}
+.light-icons .top-bar .mini-search .submit.act:before {
+  background-image: url("data:image/svg+xml,%3Csvg version='1.1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' x='0px' y='0px' width='16px' height='16px' viewBox='0 0 16 16' enable-background='new 0 0 16 16' xml:space='preserve'%3E%3Cpath fill='%23ffffff' d='M13.36,2.818L8.5,7.669L3.636,2.818c-0.226-0.224-0.59-0.224-0.816,0c-0.225,0.226-0.224,0.592,0,0.816L7.669,8.5l-4.851,4.865c-0.226,0.226-0.224,0.59,0,0.814c0.226,0.227,0.59,0.227,0.817,0L8.5,9.331l4.865,4.848c0.223,0.228,0.59,0.228,0.815,0c0.226-0.224,0.226-0.591,0-0.813L9.33,8.5l4.851-4.864c0.226-0.226,0.226-0.593,0-0.817C13.955,2.594,13.588,2.594,13.36,2.818z'/%3E%3C/svg%3E");
+}
+.bold-icons .top-bar .mini-search .submit.act:before {
+  background-image: url("data:image/svg+xml,%3Csvg version='1.1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' x='0px' y='0px' width='16px' height='16px' viewBox='0 0 16 16' enable-background='new 0 0 16 16' fill='%23ffffff' xml:space='preserve'%3E%3Cpath d='M2.294,3.564l11.031,11.061l1.384-1.311L3.646,2.271'/%3E%3Cpath d='M13.357,2.271L2.295,13.314l1.384,1.311L14.71,3.564'/%3E%3C/svg%3E");
+}
+
+
+/* 사이드바 아이콘 링크 */
+#sidebar_icon_link a {
+  text-decoration:none;
+}
+#sidebar_icon_link a:hover {
+  text-decoration:none;
+}
+
+
+/* 동영상 */ 
+.service-movie button {
+    padding-left: 0px !important;
+}
+
+.service-movie button {
+  background-color: transparent !important;
+}
+
+.service-movie button:hover {
+  background: transparent !important;
+  color:#ffffff !important;
+}
+
+
+/* 탭 */
+.vc_tta-panels-container {
+  border-top:1px solid #e4e4e4;
+}
+
+
+
+/* 메인 우측 탭 */
+.main-right-tab1 .vc_tta-panel-body {
+  padding-top:0px !important;
+  padding-bottom:0px !important;
+}
+.main-right-tab1 .vc_tta-panel-body .items-grid .wf-cell {
+  margin-bottom:15px !important;
+}
+.main-right-tab2 .vc_tta-panel-body {
+  padding-top:0px !important;
+  padding-bottom:0px !important;
+}
+.main-right-tab2 .vc_tta-panel-body .items-grid .wf-cell {
+  margin-bottom:15px !important;
+}
+.main-right-tab3 .vc_tta-panel-body {
+  padding-top:0px !important;
+  padding-bottom:0px !important;
+}
+.main-right-tab3 .vc_tta-panel-body .items-grid .wf-cell {
+  margin-bottom:15px !important;
+}
+
+.top-home-link{
+  text-decoration:none !important;
+}
+.top-home-link:hover {
+  text-decoration:none !important;
+}
+
+
+.sitemap-table td {
+  border:none !important;
+
+}
+</style>
+<link rel='stylesheet' id='bsf-Defaults-css'  href='http://zetaplan.com/wp-content/uploads/smile_fonts/Defaults/Defaults.css?ver=5.2.17' type='text/css' media='all' />
+<link rel='stylesheet' id='kboard-comments-skin-default-css'  href='http://zetaplan.com/wp-content/plugins/kboard-comments/skin/default/style.css?ver=4.1' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-css'  href='http://zetaplan.com/wp-content/plugins/js_composer/assets/lib/bower/font-awesome/css/font-awesome.min.css?ver=4.8.1' type='text/css' media='screen' />
+<!--[if lte IE 7]>
+<link rel='stylesheet' id='font-awesome-ie7-css'  href='http://zetaplan.com/wp-content/plugins/kboard/font-awesome/css/font-awesome-ie7.min.css?ver=5.0' type='text/css' media='all' />
+<![endif]-->
+<link rel='stylesheet' id='kboard-skin-default-css'  href='http://zetaplan.com/wp-content/plugins/kboard/skin/default/style.css?ver=5.0' type='text/css' media='all' />
+<link rel='stylesheet' id='kboard-skin-zetaplan1-css'  href='http://zetaplan.com/wp-content/plugins/kboard/skin/zetaplan1/style.css?ver=5.0' type='text/css' media='all' />
+<script type='text/javascript' src='http://zetaplan.com/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp'></script>
+<script type='text/javascript' src='http://zetaplan.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='http://zetaplan.com/wp-content/plugins/LayerSlider/static/js/greensock.js?ver=1.11.8'></script>
+<script type='text/javascript' src='http://zetaplan.com/wp-content/plugins/LayerSlider/static/js/layerslider.kreaturamedia.jquery.js?ver=5.6.2'></script>
+<script type='text/javascript' src='http://zetaplan.com/wp-content/plugins/LayerSlider/static/js/layerslider.transitions.js?ver=5.6.2'></script>
+<script type='text/javascript' src='http://zetaplan.com/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.tools.min.js?ver=5.1.2'></script>
+<script type='text/javascript' src='http://zetaplan.com/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.revolution.min.js?ver=5.1.2'></script>
+<script type='text/javascript' src='http://zetaplan.com/wp-content/plugins/wp-logo-showcase-responsive-slider-slider/assets/js/slick.min.js?ver=1.2.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var dtLocal = {"passText":"To view this protected post, enter the password below:","moreButtonText":{"loading":"Loading..."},"postID":"45","ajaxurl":"http:\/\/zetaplan.com\/wp-admin\/admin-ajax.php","contactNonce":"380cc49ac7","ajaxNonce":"9531597dd3","pageData":{"type":"page","template":"page","layout":null},"themeSettings":{"smoothScroll":"off","lazyLoading":false,"accentColor":{"mode":"solid","color":"#dc3400"},"floatingHeader":{"showAfter":240,"showMenu":false,"height":60,"logo":{"showLogo":true,"src":"http:\/\/zetaplan.com\/wp-content\/uploads\/2015\/12\/logo.gif 1x, http:\/\/zetaplan.com\/wp-content\/uploads\/2015\/12\/logo.gif 2x","w":221,"h":34}},"mobileHeader":{"firstSwitchPoint":950,"secondSwitchPoint":950},"content":{"responsivenessTreshold":970,"textColor":"#7e7e7e","headerColor":"#3a3a3a"},"stripes":{"stripe1":{"textColor":"#7e7e7e","headerColor":"#3a3a3a"},"stripe2":{"textColor":"#ffffff","headerColor":"#ffffff"},"stripe3":{"textColor":"#ffffff","headerColor":"#ffffff"}}}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://zetaplan.com/wp-content/themes/dt-the7/js/above-the-fold.min.js?ver=3.0.1'></script>
+<link rel='https://api.w.org/' href='http://zetaplan.com/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://zetaplan.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://zetaplan.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.2.17" />
+<link rel="canonical" href="http://zetaplan.com/" />
+<link rel='shortlink' href='http://zetaplan.com/' />
+<link rel="alternate" type="application/json+oembed" href="http://zetaplan.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fzetaplan.com%2F" />
+<link rel="alternate" type="text/xml+oembed" href="http://zetaplan.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fzetaplan.com%2F&#038;format=xml" />
+<meta property="og:site_name" content="ZETAPLANInvestment에 오신걸 환영합니다">
+<meta property="fb:admins" content="">
+<meta property="og:title" content=" ZETAPLANInvestment에 오신걸 환영합니다">
+<meta property="og:description" content="ZETAPLAN">
+<meta property="og:url" content="http://zetaplan.com/">
+<meta property="og:type" content="website"> 
+<meta property="og:image" content="http://zetaplan.com/wp-content/uploads/2017/03/oglog.png">
+		<script type="text/javascript">
+			dtGlobals.logoEnabled = 1;
+			dtGlobals.logoURL = '';
+			dtGlobals.logoW = '0';
+			dtGlobals.logoH = '0';
+			smartMenu = 0;
+		</script>
+		<meta name="generator" content="Powered by Visual Composer - drag and drop page builder for WordPress."/>
+<!--[if lte IE 9]><link rel="stylesheet" type="text/css" href="http://zetaplan.com/wp-content/plugins/js_composer/assets/css/vc_lte_ie9.min.css" media="screen"><![endif]--><!--[if IE  8]><link rel="stylesheet" type="text/css" href="http://zetaplan.com/wp-content/plugins/js_composer/assets/css/vc-ie8.min.css" media="screen"><![endif]--><meta name="generator" content="Powered by Slider Revolution 5.1.2 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface." />
+<style type="text/css" data-type="vc_shortcodes-custom-css">.vc_custom_1452499711354{margin-top: 0px !important;margin-right: 0px !important;margin-bottom: 0px !important;margin-left: 0px !important;border-top-width: 0px !important;border-right-width: 0px !important;border-bottom-width: 0px !important;border-left-width: 0px !important;padding-top: 0px !important;padding-right: 0px !important;padding-bottom: 0px !important;padding-left: 0px !important;border-left-color: #efefef !important;border-left-style: solid !important;border-right-color: #efefef !important;border-right-style: solid !important;border-top-color: #efefef !important;border-top-style: solid !important;border-bottom-color: #efefef !important;border-bottom-style: solid !important;}.vc_custom_1452831755508{padding-right: 10px !important;padding-left: 10px !important;}.vc_custom_1452834825179{margin-right: 0px !important;margin-left: 0px !important;}.vc_custom_1452834825179{margin-right: 0px !important;margin-left: 0px !important;}.vc_custom_1452834825179{margin-right: 0px !important;margin-left: 0px !important;}.vc_custom_1453873815618{border-bottom-width: 5px !important;padding-right: 10px !important;padding-left: 10px !important;}.vc_custom_1456284652516{border-bottom-width: 5px !important;padding-right: 10px !important;padding-left: 10px !important;}.vc_custom_1453873362581{border-bottom-width: 5px !important;padding-right: 10px !important;padding-left: 10px !important;}.vc_custom_1454376546202{border-bottom-width: 5px !important;padding-right: 10px !important;padding-left: 10px !important;}.vc_custom_1453874739459{border-bottom-width: 5px !important;padding-right: 10px !important;padding-left: 10px !important;}.vc_custom_1453874839964{border-bottom-width: 5px !important;padding-right: 10px !important;padding-left: 10px !important;}.vc_custom_1453267370170{padding-top: 19px !important;}.vc_custom_1453267370170{padding-top: 19px !important;}.vc_custom_1453267370170{padding-top: 19px !important;}.vc_custom_1453267370170{padding-top: 19px !important;}.vc_custom_1453267377489{padding-top: 19px !important;}.vc_custom_1453267384353{padding-top: 19px !important;}</style><noscript><style type="text/css"> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript><script>
+jQuery(function () {
+  jQuery(".auth_page").click(function () {
+    if(jQuery("#bookmark_auth1").css("display") == "none") {
+      jQuery("#bookmark_auth1").css("display","block");
+      jQuery("#bookmark_auth2").css("display","none");
+    }else{
+      jQuery("#bookmark_auth1").css("display","none");
+      jQuery("#bookmark_auth2").css("display","block");
+    }
+  });
+});
+
+
+
+
+
+</script>
+
+<!--  LOG corp Web Analitics & Live Chat  START -->
+<script  type="text/javascript">
+//<![CDATA[
+function logCorpAScript_full(){
+	HTTP_MSN_MEMBER_NAME="";/*member name*/
+	LOGSID = "f1ce7cc2c8d0e7580202a36b2b7b1d2a";/*logsid*/
+	LOGREF = "";/*logref*/
+	var prtc=(document.location.protocol=="https:")?"https://":"http://";
+	var hst=prtc+"asp19.http.or.kr"; 
+	var rnd="r"+(new Date().getTime()*Math.random()*9);
+	this.ch=function(){
+		if(document.getElementsByTagName("head")[0]){logCorpAnalysis_full.dls();}else{window.setTimeout(logCorpAnalysis_full.ch,30)}
+	}
+	this.dls=function(){
+		var h=document.getElementsByTagName("head")[0];
+		var s=document.createElement("script");s.type="text/jav"+"ascript";try{s.defer=true;}catch(e){};try{s.async=true;}catch(e){};
+		if(h){s.src=hst+"/HTTP_MSN/UsrConfig/zetaplanf/js/ASP_Conf.js?s="+rnd;h.appendChild(s);}
+	}
+	this.init= function(){
+		document.write('<img src="'+hst+'/sr.gif?d='+rnd+'" style="width:1px;height:1px;position:absolute;display:none" onload="logCorpAnalysis_full.ch()" alt="" />');
+	}
+}
+if(typeof logCorpAnalysis_full=="undefined"){var logCorpAnalysis_full=new logCorpAScript_full();logCorpAnalysis_full.init();}
+//]]>
+</script>
+<noscript><img src="http://asp19.http.or.kr/HTTP_MSN/Messenger/Noscript.php?key=zetaplanf" style="display:none;width:0;height:0;" alt="" /></noscript>
+<!-- LOG corp Web Analitics & Live Chat END -->
+
+
+
+
+
+
+
+
+</head>
+<body class="home page-template-default page page-id-45 page-parent  desktop small-hover-icons overlay-cursor-on srcset-enabled btn-flat custom-btn-color custom-btn-hover-color outline-element-decoration filter-style-minimal contact-form-minimal small-fancy-datas accent-bullets bold-icons floating-mobile-menu-icon top-header first-switch-logo-center first-switch-menu-left second-switch-logo-center second-switch-menu-left wpb-js-composer js-comp-ver-4.8.1 vc_responsive outlined-portfolio-icons album-minuatures-style-2">
+
+<div id="page">
+
+
+<div class="masthead classic-header justify full-width-line widgets full-height dividers surround shadow-decoration dt-parent-menu-clickable show-device-logo show-mobile-logo" role="banner">
+
+			<div class="top-bar">
+								</div>
+	<header class="header-bar">
+
+						<div class="branding">
+
+					<a href="http://zetaplan.com/"><img class=" preload-me" srcset="http://zetaplan.com/wp-content/uploads/2017/03/제타플랜로고3.png 1x, http://zetaplan.com/wp-content/uploads/2017/03/제타플랜로고4.png 2x" width="179" height="38"  alt="Zeta Plan Investment 에 오신걸 환영합니다" /><img class="mobile-logo preload-me" srcset="http://zetaplan.com/wp-content/uploads/2017/03/제타플랜로고3.png 1x, http://zetaplan.com/wp-content/uploads/2017/03/제타플랜로고4.png 2x" width="179" height="38"  alt="Zeta Plan Investment 에 오신걸 환영합니다" /></a>
+					<div id="site-title" class="assistive-text">Zeta Plan Investment 에 오신걸 환영합니다</div>
+					<div id="site-description" class="assistive-text"></div>
+
+					<div class="mini-widgets"></div>
+					<div class="mini-widgets"><div class="text-area in-menu-on-mobile"><div style="float:left;position:relative;top:-10px;margin-right:10px;"><form id="top_search_form" method="get" action="/">
+				<input type="text" class="field searchform-s" name="s" value="" placeholder="검색할 단어를 입력하세요" style="margin-bottom:0px;padding:3px;width:200px;"><a href="javascript:jQuery('#top_search_form').submit();" style="position:relative;left:-20px;" id="top-search-btn"><i class="fa fa-search" style="color:#999999;"></i></a></form></div><div  style="float:left;margin-top:-3px;"><p><a href="/" class="top-home-link" style="font-size:11px;color:gray !important;text-decoration;none !important">Home</a>&nbsp;&nbsp;<a href="/사이트맵" class="top-home-link" style="font-size:11px;color:gray !important;text-decoration;none !important">Sitemap</a>&nbsp;&nbsp;<a href="/" class="topbar-lang"><img src="/img/kr_icon.png" align="absmiddle">Korean</a>&nbsp;&nbsp;<a href="/us/" class="topbar-lang"><img src="/img/us_icon.png" align="absmiddle">English</a>&nbsp;&nbsp;<a href="/cn/" class="topbar-lang"><img src="/img/cn_icon.png" align="absmiddle">Chinese</a></p>
+</div></div></div>
+				</div>
+		<nav class="navigation">
+
+			<ul class="main-nav bg-outline-decoration hover-bg-decoration hover-line-decoration active-outline-decoration active-line-decoration animate-click-decoration level-arrows-on" role="menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1641 first has-children"><a href='/ma/ma-summary/' data-level='1'><span class="menu-item-text"><span class="menu-text">M&#038;A</span></span></a><ul class="sub-nav hover-style-click-bg level-arrows-on"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-568 first"><a href='http://zetaplan.com/ma/ma-summary/' data-level='2'><span class="menu-item-text"><span class="menu-text">M&#038;A 개요</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-766"><a href='http://zetaplan.com/ma/ma-classification/' data-level='2'><span class="menu-item-text"><span class="menu-text">M&#038;A 분류</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-767"><a href='http://zetaplan.com/ma/ma-form/' data-level='2'><span class="menu-item-text"><span class="menu-text">M&#038;A 형태</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-765"><a href='http://zetaplan.com/ma/ma-purpose/' data-level='2'><span class="menu-item-text"><span class="menu-text">M&#038;A 목적</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-782"><a href='http://zetaplan.com/ma/back-doorlisting/' data-level='2'><span class="menu-item-text"><span class="menu-text">우회상장</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-781"><a href='http://zetaplan.com/ma/ma-process/' data-level='2'><span class="menu-item-text"><span class="menu-text">M&#038;A Process</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-569"><a href='http://zetaplan.com/ma/ma-deal-info/' data-level='2'><span class="menu-item-text"><span class="menu-text">M&#038;A 거래정보</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2196"><a href='http://zetaplan.com/ma/ma-deal-structure/' data-level='2'><span class="menu-item-text"><span class="menu-text">M&#038;A Deal structure</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2197"><a href='http://zetaplan.com/ma/ma-corporate-performance/' data-level='2'><span class="menu-item-text"><span class="menu-text">M&#038;A 기법 및 성과</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2198"><a href='http://zetaplan.com/ma/zeta-plan-ma-system/' data-level='2'><span class="menu-item-text"><span class="menu-text">Zeta Plan M&#038;A System</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4590"><a href='http://zetaplan.com/ma/ma-%ec%a4%91%ea%b0%9c%ec%a7%80%ec%9b%90/' data-level='2'><span class="menu-item-text"><span class="menu-text">M&#038;A 중개지원</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4589"><a href='http://zetaplan.com/ma/ma-%eb%b3%b4%ec%a6%9d%ec%a7%80%ec%9b%90/' data-level='2'><span class="menu-item-text"><span class="menu-text">M&#038;A 보증지원</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2572"><a href='http://zetaplan.com/overseas/global-m-a-support-program-kitia/' data-level='2'><span class="menu-item-text"><span class="menu-text">해외 M&#038;A 지원사업</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-783"><a href='http://zetaplan.com/ma/ma-consulting/' data-level='2'><span class="menu-item-text"><span class="menu-text">컨설팅 신청</span></span></a></li> </ul></li> <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2254 has-children"><a href='/investment-ir/investment-consulting-ir-overview/' data-level='1'><span class="menu-item-text"><span class="menu-text">투자·IR</span></span></a><ul class="sub-nav hover-style-click-bg level-arrows-on"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2235 first"><a href='http://zetaplan.com/investment-ir/investment-consulting-ir-overview/' data-level='2'><span class="menu-item-text"><span class="menu-text">투자IR 컨설팅 개요</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2234"><a href='http://zetaplan.com/investment-ir/investment-ir-business-plan/' data-level='2'><span class="menu-item-text"><span class="menu-text">투자IR 사업계획서</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2238"><a href='http://zetaplan.com/investment-ir/consulting-utilizing-network/' data-level='2'><span class="menu-item-text"><span class="menu-text">네트워크를 활용한 컨설팅</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2239"><a href='http://zetaplan.com/investment-ir/step-by-step-execution-of-the-ir-consulting/' data-level='2'><span class="menu-item-text"><span class="menu-text">단계별 IR실행 컨설팅</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2240"><a href='http://zetaplan.com/investment-ir/step-by-step-diagnosis-and-establish-corporate-strategy/' data-level='2'><span class="menu-item-text"><span class="menu-text">단계별 기업진단/전략수립</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2237"><a href='http://zetaplan.com/investment-ir/investment-consulting-solutions-competency/' data-level='2'><span class="menu-item-text"><span class="menu-text">투자유치 역량강화 컨설팅</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2233"><a href='http://zetaplan.com/investment-ir/consulting-proceedings/' data-level='2'><span class="menu-item-text"><span class="menu-text">컨설팅 진행 절차</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2242"><a href='http://zetaplan.com/investment-ir/surveillance-measures/' data-level='2'><span class="menu-item-text"><span class="menu-text">사후관리 방안</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2241"><a href='http://zetaplan.com/investment-ir/discriminatory-consulting/' data-level='2'><span class="menu-item-text"><span class="menu-text">제타플랜의 차별적 컨설팅</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2236"><a href='http://zetaplan.com/investment-ir/investment-success/' data-level='2'><span class="menu-item-text"><span class="menu-text">투자유치 성공사례</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4606"><a href='http://zetaplan.com/investment-ir/%ec%86%8c%ec%9e%ac%eb%b6%80%ed%92%88-%ed%88%ac%ec%9e%90ir%ec%82%ac%ec%97%85/' data-level='2'><span class="menu-item-text"><span class="menu-text">소재부품 투자IR사업</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2232"><a href='http://zetaplan.com/investment-ir/consulting/' data-level='2'><span class="menu-item-text"><span class="menu-text">컨설팅 신청</span></span></a></li> </ul></li> <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1642 has-children"><a href='/ipo/listed-overview/' data-level='1'><span class="menu-item-text"><span class="menu-text">IPO</span></span></a><ul class="sub-nav hover-style-click-bg level-arrows-on"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-818 first"><a href='http://zetaplan.com/ipo/listed-overview/' data-level='2'><span class="menu-item-text"><span class="menu-text">상장의 개요</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-820"><a href='http://zetaplan.com/ipo/listed-effect-of-benefits/' data-level='2'><span class="menu-item-text"><span class="menu-text">상장의 혜택 및 효과</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-821"><a href='http://zetaplan.com/ipo/stock-market-ipo/' data-level='2'><span class="menu-item-text"><span class="menu-text">유가증권시장 상장</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-823"><a href='http://zetaplan.com/ipo/kosdaq-listed/' data-level='2'><span class="menu-item-text"><span class="menu-text">코스닥시장 상장</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2532"><a href='http://zetaplan.com/ipo/conex-listing/' data-level='2'><span class="menu-item-text"><span class="menu-text">코넥스시장 상장</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2531"><a href='http://zetaplan.com/ipo/spac-backdoor-listing/' data-level='2'><span class="menu-item-text"><span class="menu-text">SPAC우회상장</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-816"><a href='http://zetaplan.com/ipo/ipo-procedures/' data-level='2'><span class="menu-item-text"><span class="menu-text">IPO 절차</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-817"><a href='http://zetaplan.com/ipo/ipo-consulting-info/' data-level='2'><span class="menu-item-text"><span class="menu-text">IPO 컨설팅</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-822"><a href='http://zetaplan.com/ipo/ipo-consulting/' data-level='2'><span class="menu-item-text"><span class="menu-text">컨설팅 신청</span></span></a></li> </ul></li> <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1659 has-children"><a href='/corporate-finance/policy-funds/' data-level='1'><span class="menu-item-text"><span class="menu-text">기업금융</span></span></a><ul class="sub-nav hover-style-click-bg level-arrows-on"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-866 first"><a href='http://zetaplan.com/corporate-finance/policy-funds/' data-level='2'><span class="menu-item-text"><span class="menu-text">정책자금</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-865"><a href='http://zetaplan.com/corporate-finance/technology-guarantee/' data-level='2'><span class="menu-item-text"><span class="menu-text">기술보증</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-864"><a href='http://zetaplan.com/corporate-finance/credit-guarantee/' data-level='2'><span class="menu-item-text"><span class="menu-text">신용보증</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-863"><a href='http://zetaplan.com/corporate-finance/export-financing/' data-level='2'><span class="menu-item-text"><span class="menu-text">수출금융</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-862"><a href='http://zetaplan.com/corporate-finance/trade-financing-fund/' data-level='2'><span class="menu-item-text"><span class="menu-text">무역기금융자</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-861"><a href='http://zetaplan.com/corporate-finance/environmental-industry-loans/' data-level='2'><span class="menu-item-text"><span class="menu-text">환경산업융자</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-860"><a href='http://zetaplan.com/corporate-finance/guarantee-yourself-for-fisheries/' data-level='2'><span class="menu-item-text"><span class="menu-text">농림수산업자 신용보증</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-859"><a href='http://zetaplan.com/corporate-finance/development-fund-loan/' data-level='2'><span class="menu-item-text"><span class="menu-text">관광진흥개발기금융자</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-858"><a href='http://zetaplan.com/corporate-finance/technology-loan-application/' data-level='2'><span class="menu-item-text"><span class="menu-text">ICT응용기술개발융자</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-857"><a href='http://zetaplan.com/corporate-finance/corporate-finance-consulting/' data-level='2'><span class="menu-item-text"><span class="menu-text">컨설팅 신청</span></span></a></li> </ul></li> <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1669 has-children"><a href='/technology-finance/technology-financial-overview/' data-level='1'><span class="menu-item-text"><span class="menu-text">기술금융</span></span></a><ul class="sub-nav hover-style-click-bg level-arrows-on"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-929 first"><a href='http://zetaplan.com/technology-finance/technology-financial-overview/' data-level='2'><span class="menu-item-text"><span class="menu-text">기술금융 개요</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-928"><a href='http://zetaplan.com/technology-finance/tcb-technology-assessment-ioans/' data-level='2'><span class="menu-item-text"><span class="menu-text">TCB 기술평가대출</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-927"><a href='http://zetaplan.com/technology-finance/technology-valuation-ip-mortgage-loan/' data-level='2'><span class="menu-item-text"><span class="menu-text">기술가치평가 IP 담보대출</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-926"><a href='http://zetaplan.com/technology-finance/sales-license-back/' data-level='2'><span class="menu-item-text"><span class="menu-text">세일앤드라이센스백</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-925"><a href='http://zetaplan.com/technology-finance/intellectual-property-creation-warranty/' data-level='2'><span class="menu-item-text"><span class="menu-text">지식재산창출보증</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-924"><a href='http://zetaplan.com/technology-finance/technology-financial-investment/' data-level='2'><span class="menu-item-text"><span class="menu-text">기술금융투자</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-923"><a href='http://zetaplan.com/technology-finance/technology-finance-consulting/' data-level='2'><span class="menu-item-text"><span class="menu-text">컨설팅 신청</span></span></a></li> </ul></li> <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1676 has-children"><a href='/strategic-consulting/strategic-management-overview/' data-level='1'><span class="menu-item-text"><span class="menu-text">경영컨설팅</span></span></a><ul class="sub-nav hover-style-click-bg level-arrows-on"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-954 first"><a href='http://zetaplan.com/strategic-consulting/strategic-management-overview/' data-level='2'><span class="menu-item-text"><span class="menu-text">경영컨설팅 정의</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-953"><a href='http://zetaplan.com/strategic-consulting/business-strategy-consulting/' data-level='2'><span class="menu-item-text"><span class="menu-text">경영컨설팅 Matrix</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4553"><a href='http://zetaplan.com/strategic-consulting/%ec%a4%91%ec%86%8c%ea%b8%b0%ec%97%85%ea%b2%bd%ec%98%81%ec%bb%a8%ec%84%a4%ed%8c%85/' data-level='2'><span class="menu-item-text"><span class="menu-text">사업타당성분석</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4552"><a href='http://zetaplan.com/strategic-consulting/sba-%eb%b9%84%ec%a6%88%eb%8b%88%ec%8a%a4%ec%84%9c%eb%b9%84%ec%8a%a4bs-%ec%bb%a8%ec%84%a4%ed%8c%85/' data-level='2'><span class="menu-item-text"><span class="menu-text">경제성 평가</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4551"><a href='http://zetaplan.com/strategic-consulting/%ed%99%98%ea%b2%bd%ec%82%b0%ec%97%85%ea%b2%bd%ec%98%81%ec%bb%a8%ec%84%a4%ed%8c%85/' data-level='2'><span class="menu-item-text"><span class="menu-text">경영평가</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-950"><a href='http://zetaplan.com/strategic-consulting/strategic-consulting-apply/' data-level='2'><span class="menu-item-text"><span class="menu-text">컨설팅 신청</span></span></a></li> </ul></li> <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1681 has-children"><a href='/technology-deals/technical-trading-overview/' data-level='1'><span class="menu-item-text"><span class="menu-text">기술거래</span></span></a><ul class="sub-nav hover-style-click-bg level-arrows-on"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1017 first"><a href='http://zetaplan.com/technology-deals/technical-trading-overview/' data-level='2'><span class="menu-item-text"><span class="menu-text">기술거래 개요</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1041"><a href='http://zetaplan.com/technology-deals/technical-trading-procedure/' data-level='2'><span class="menu-item-text"><span class="menu-text">기술거래 절차</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1042"><a href='http://zetaplan.com/technology-deals/domestic-and-international-partners/' data-level='2'><span class="menu-item-text"><span class="menu-text">국내외 협력기관</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1040"><a href='http://zetaplan.com/technology-deals/domestic-and-foreign-technical-trading-photos/' data-level='2'><span class="menu-item-text"><span class="menu-text">국내외 기술거래 사진</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4248"><a href='http://zetaplan.com/technology-deals/%ec%9e%90%eb%a3%8c%ec%8b%a4/' data-level='2'><span class="menu-item-text"><span class="menu-text">자료실</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1039"><a href='http://zetaplan.com/technology-deals/information-technology-transactions/' data-level='2'><span class="menu-item-text"><span class="menu-text">기술거래 리스트</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1936"><a href='http://zetaplan.com/technology-deals/registration-technology-introduced-hope/' data-level='2'><span class="menu-item-text"><span class="menu-text">도입희망기술등록</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1935"><a href='http://zetaplan.com/technology-deals/previous-hope-technology/' data-level='2'><span class="menu-item-text"><span class="menu-text">이전희망기술등록</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1038"><a href='http://zetaplan.com/technology-deals/technical-trading-consulting/' data-level='2'><span class="menu-item-text"><span class="menu-text">기술거래 상담신청</span></span></a></li> </ul></li> <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1689 has-children"><a href='http://zetaplan.com/business-certification/%EA%B8%B0%EC%97%85-%EC%9D%B8%EC%A6%9D-%EB%A1%9C%EB%93%9C%EB%A7%B5/' data-level='1'><span class="menu-item-text"><span class="menu-text">기업인증</span></span></a><ul class="sub-nav hover-style-click-bg level-arrows-on"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5261 first"><a href='http://zetaplan.com/business-certification/%ea%b8%b0%ec%97%85-%ec%9d%b8%ec%a6%9d-%eb%a1%9c%eb%93%9c%eb%a7%b5/' data-level='2'><span class="menu-item-text"><span class="menu-text">제타플랜 인증지원 차별점</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-580"><a href='http://zetaplan.com/business-certification/r-d-center/' data-level='2'><span class="menu-item-text"><span class="menu-text">기업부설연구소</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-583"><a href='http://zetaplan.com/business-certification/venture-company/' data-level='2'><span class="menu-item-text"><span class="menu-text">벤처기업</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-588"><a href='http://zetaplan.com/business-certification/innobiz-company/' data-level='2'><span class="menu-item-text"><span class="menu-text">이노비즈기업</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-582"><a href='http://zetaplan.com/business-certification/main-business-companies/' data-level='2'><span class="menu-item-text"><span class="menu-text">메인비즈기업</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4241"><a href='http://zetaplan.com/business-certification/iso-%ec%9d%b8%ec%a6%9d/' data-level='2'><span class="menu-item-text"><span class="menu-text">ISO9001/14001</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-586"><a href='http://zetaplan.com/business-certification/promising-export-firm/' data-level='2'><span class="menu-item-text"><span class="menu-text">수출유망중소기업</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-584"><a href='http://zetaplan.com/business-certification/excellent-service-quality-company/' data-level='2'><span class="menu-item-text"><span class="menu-text">서비스품질우수기업</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-585"><a href='http://zetaplan.com/business-certification/material-components-specialist/' data-level='2'><span class="menu-item-text"><span class="menu-text">소재부품전문기업</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-581"><a href='http://zetaplan.com/business-certification/brain-empowerment-excellent-company/' data-level='2'><span class="menu-item-text"><span class="menu-text">두뇌역량강화우수기업</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-587"><a href='http://zetaplan.com/business-certification/world-class-300/' data-level='2'><span class="menu-item-text"><span class="menu-text">월드클래스300</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-895"><a href='http://zetaplan.com/business-certification/ip-star-company/' data-level='2'><span class="menu-item-text"><span class="menu-text">IP Star 기업</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-894"><a href='http://zetaplan.com/business-certification/promising-sme/' data-level='2'><span class="menu-item-text"><span class="menu-text">경기도 유망중소기업</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-893"><a href='http://zetaplan.com/business-certification/training-company/' data-level='2'><span class="menu-item-text"><span class="menu-text">인재육성형 중소기업</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-892"><a href='http://zetaplan.com/business-certification/professional-research-staff-islands/' data-level='2'><span class="menu-item-text"><span class="menu-text">전문연구인력제도</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-891"><a href='http://zetaplan.com/business-certification/industrial-facilities-personnel-islands/' data-level='2'><span class="menu-item-text"><span class="menu-text">산업기능요원제도</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3914"><a href='http://zetaplan.com/business-certification/%ec%9a%b0%ec%88%98%ea%b7%b8%eb%a6%b0%eb%b9%84%ec%a6%88/' data-level='2'><span class="menu-item-text"><span class="menu-text">우수그린비즈</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4706"><a href='http://zetaplan.com/business-certification/%ec%97%b0%ea%b5%ac%ec%86%8c%ea%b8%b0%ec%97%85-%ec%9d%b8%ec%a6%9d/' data-level='2'><span class="menu-item-text"><span class="menu-text">연구소기업</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-589"><a href='http://zetaplan.com/business-certification/company-consulting/' data-level='2'><span class="menu-item-text"><span class="menu-text">컨설팅신청</span></span></a></li> </ul></li> <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1691 has-children"><a href='/technology-and-product-certification/technology-certification/' data-level='1'><span class="menu-item-text"><span class="menu-text">기술·제품인증</span></span></a><ul class="sub-nav hover-style-click-bg level-arrows-on"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1074 first"><a href='http://zetaplan.com/technology-and-product-certification/technology-certification/' data-level='2'><span class="menu-item-text"><span class="menu-text">신기술인증</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1073"><a href='http://zetaplan.com/technology-and-product-certification/new-certification/' data-level='2'><span class="menu-item-text"><span class="menu-text">신제품인증</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1072"><a href='http://zetaplan.com/technology-and-product-certification/performance-certification/' data-level='2'><span class="menu-item-text"><span class="menu-text">성능인증</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2818"><a href='http://zetaplan.com/technology-and-product-certification/%eb%85%b9%ec%83%89%ec%9d%b8%ec%a6%9d/' data-level='2'><span class="menu-item-text"><span class="menu-text">녹색기술인증</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5019"><a href='http://zetaplan.com/technology-and-product-certification/%ed%99%98%ea%b2%bd%ed%91%9c%ec%a7%80%ec%9d%b8%ec%a6%9d%ed%99%98%ea%b2%bd%eb%a7%88%ed%81%ac/' data-level='2'><span class="menu-item-text"><span class="menu-text">환경표지인증(환경마크)</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1071"><a href='http://zetaplan.com/technology-and-product-certification/k-mark/' data-level='2'><span class="menu-item-text"><span class="menu-text">K마크</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1069"><a href='http://zetaplan.com/technology-and-product-certification/pps-an-excellent-product-system/' data-level='2'><span class="menu-item-text"><span class="menu-text">조달청 우수제품제도</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1068"><a href='http://zetaplan.com/technology-and-product-certification/technical-product-certification-consulting/' data-level='2'><span class="menu-item-text"><span class="menu-text">컨설팅 신청</span></span></a></li> </ul></li> <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2275 has-children"><a href='/credit-rating/services-overview/' data-level='1'><span class="menu-item-text"><span class="menu-text">신용평가</span></span></a><ul class="sub-nav hover-style-click-bg level-arrows-on"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2274 first"><a href='http://zetaplan.com/credit-rating/services-overview/' data-level='2'><span class="menu-item-text"><span class="menu-text">기업신용평가서비스</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2273"><a href='http://zetaplan.com/credit-rating/credit-rating-services/' data-level='2'><span class="menu-item-text"><span class="menu-text">공공입찰 기업신용평가</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2272"><a href='http://zetaplan.com/credit-rating/parent-support-services-and-partners/' data-level='2'><span class="menu-item-text"><span class="menu-text">당좌거래 기업신용평가</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2271"><a href='http://zetaplan.com/credit-rating/international-credit-information-services/' data-level='2'><span class="menu-item-text"><span class="menu-text">아파트입찰용 신용평가</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3943"><a href='http://zetaplan.com/credit-rating/%ed%98%91%eb%a0%a5%ec%97%85%ec%b2%b4-%ec%8b%a0%ec%9a%a9%ed%8f%89%ea%b0%80/' data-level='2'><span class="menu-item-text"><span class="menu-text">협력업체 신용평가</span></span></a></li> <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4930"><a href='http://aff.g2brating.co.kr/affiliate/affs_index.do?param=zeta' data-level='2'><span class="menu-item-text"><span class="menu-text">신용평가 신청</span></span></a></li> </ul></li> <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1690 has-children"><a href='/overseas/about-overseas-business/' data-level='1'><span class="menu-item-text"><span class="menu-text">해외진출</span></span></a><ul class="sub-nav hover-style-click-bg level-arrows-on"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2576 first"><a href='http://zetaplan.com/overseas/about-overseas-business/' data-level='2'><span class="menu-item-text"><span class="menu-text">해외진출 사업 소개</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2574"><a href='http://zetaplan.com/overseas/zeta-plan-international-network/' data-level='2'><span class="menu-item-text"><span class="menu-text">제타플랜 해외네트워크</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15408"><a href='http://zetaplan.com/overseas/%ea%b8%80%eb%a1%9c%eb%b2%8c-%ea%b8%b0%ec%88%a0%ec%82%ac%ec%97%85%ed%99%94-%ec%bb%a8%ec%84%a4%ed%8c%85-%ec%a7%80%ec%9b%90%ec%82%ac%ec%97%85%eb%b6%81%ea%b2%bd-gcc/' data-level='2'><span class="menu-item-text"><span class="menu-text">글로벌기술사업화(중국)</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2573"><a href='http://zetaplan.com/overseas/china-overseas-private-network-business-strategy/' data-level='2'><span class="menu-item-text"><span class="menu-text">해외지사화사업</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11217"><a href='http://zetaplan.com/overseas/%ec%88%98%ec%b6%9c%eb%b0%94%ec%9a%b0%ec%b2%98%ec%82%ac%ec%97%85/' data-level='2'><span class="menu-item-text"><span class="menu-text">수출바우처사업 개괄소개</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2571"><a href='http://zetaplan.com/overseas/global-investment-support-kitia/' data-level='2'><span class="menu-item-text"><span class="menu-text">해외진출전략수립</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2570"><a href='http://zetaplan.com/overseas/at-agricultural-products-export-assistance/' data-level='2'><span class="menu-item-text"><span class="menu-text">해외시장조사</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2569"><a href='http://zetaplan.com/overseas/sba-advance-the-green-industry-support/' data-level='2'><span class="menu-item-text"><span class="menu-text">해외바이어발굴</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2567"><a href='http://zetaplan.com/overseas/kotra-business/' data-level='2'><span class="menu-item-text"><span class="menu-text">해외법인설립</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2575"><a href='http://zetaplan.com/overseas/support-business-expansion-in-vietnam/' data-level='2'><span class="menu-item-text"><span class="menu-text">베트남 진출지원</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2568"><a href='http://zetaplan.com/overseas/environmental-industry-technology-institute-overseas-support/' data-level='2'><span class="menu-item-text"><span class="menu-text">환경산업 해외진출지원사업</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1096"><a href='http://zetaplan.com/overseas/overseas-consulting/' data-level='2'><span class="menu-item-text"><span class="menu-text">컨설팅 신청</span></span></a></li> </ul></li> </ul>
+			
+		</nav>
+
+	</header>
+
+</div><div class='dt-close-mobile-menu-icon'><span></span></div>
+<div class='dt-mobile-header'>
+	<ul class="mobile-main-nav" role="menu">
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1641 first has-children"><a href='/ma/ma-summary/' data-level='1'><span class="menu-item-text"><span class="menu-text">M&#038;A</span></span></a><ul class="sub-nav hover-style-click-bg level-arrows-on"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-568 first"><a href='http://zetaplan.com/ma/ma-summary/' data-level='2'><span class="menu-item-text"><span class="menu-text">M&#038;A 개요</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-766"><a href='http://zetaplan.com/ma/ma-classification/' data-level='2'><span class="menu-item-text"><span class="menu-text">M&#038;A 분류</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-767"><a href='http://zetaplan.com/ma/ma-form/' data-level='2'><span class="menu-item-text"><span class="menu-text">M&#038;A 형태</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-765"><a href='http://zetaplan.com/ma/ma-purpose/' data-level='2'><span class="menu-item-text"><span class="menu-text">M&#038;A 목적</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-782"><a href='http://zetaplan.com/ma/back-doorlisting/' data-level='2'><span class="menu-item-text"><span class="menu-text">우회상장</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-781"><a href='http://zetaplan.com/ma/ma-process/' data-level='2'><span class="menu-item-text"><span class="menu-text">M&#038;A Process</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-569"><a href='http://zetaplan.com/ma/ma-deal-info/' data-level='2'><span class="menu-item-text"><span class="menu-text">M&#038;A 거래정보</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2196"><a href='http://zetaplan.com/ma/ma-deal-structure/' data-level='2'><span class="menu-item-text"><span class="menu-text">M&#038;A Deal structure</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2197"><a href='http://zetaplan.com/ma/ma-corporate-performance/' data-level='2'><span class="menu-item-text"><span class="menu-text">M&#038;A 기법 및 성과</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2198"><a href='http://zetaplan.com/ma/zeta-plan-ma-system/' data-level='2'><span class="menu-item-text"><span class="menu-text">Zeta Plan M&#038;A System</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4590"><a href='http://zetaplan.com/ma/ma-%ec%a4%91%ea%b0%9c%ec%a7%80%ec%9b%90/' data-level='2'><span class="menu-item-text"><span class="menu-text">M&#038;A 중개지원</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4589"><a href='http://zetaplan.com/ma/ma-%eb%b3%b4%ec%a6%9d%ec%a7%80%ec%9b%90/' data-level='2'><span class="menu-item-text"><span class="menu-text">M&#038;A 보증지원</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2572"><a href='http://zetaplan.com/overseas/global-m-a-support-program-kitia/' data-level='2'><span class="menu-item-text"><span class="menu-text">해외 M&#038;A 지원사업</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-783"><a href='http://zetaplan.com/ma/ma-consulting/' data-level='2'><span class="menu-item-text"><span class="menu-text">컨설팅 신청</span></span></a></li> </ul></li> <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2254 has-children"><a href='/investment-ir/investment-consulting-ir-overview/' data-level='1'><span class="menu-item-text"><span class="menu-text">투자·IR</span></span></a><ul class="sub-nav hover-style-click-bg level-arrows-on"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2235 first"><a href='http://zetaplan.com/investment-ir/investment-consulting-ir-overview/' data-level='2'><span class="menu-item-text"><span class="menu-text">투자IR 컨설팅 개요</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2234"><a href='http://zetaplan.com/investment-ir/investment-ir-business-plan/' data-level='2'><span class="menu-item-text"><span class="menu-text">투자IR 사업계획서</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2238"><a href='http://zetaplan.com/investment-ir/consulting-utilizing-network/' data-level='2'><span class="menu-item-text"><span class="menu-text">네트워크를 활용한 컨설팅</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2239"><a href='http://zetaplan.com/investment-ir/step-by-step-execution-of-the-ir-consulting/' data-level='2'><span class="menu-item-text"><span class="menu-text">단계별 IR실행 컨설팅</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2240"><a href='http://zetaplan.com/investment-ir/step-by-step-diagnosis-and-establish-corporate-strategy/' data-level='2'><span class="menu-item-text"><span class="menu-text">단계별 기업진단/전략수립</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2237"><a href='http://zetaplan.com/investment-ir/investment-consulting-solutions-competency/' data-level='2'><span class="menu-item-text"><span class="menu-text">투자유치 역량강화 컨설팅</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2233"><a href='http://zetaplan.com/investment-ir/consulting-proceedings/' data-level='2'><span class="menu-item-text"><span class="menu-text">컨설팅 진행 절차</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2242"><a href='http://zetaplan.com/investment-ir/surveillance-measures/' data-level='2'><span class="menu-item-text"><span class="menu-text">사후관리 방안</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2241"><a href='http://zetaplan.com/investment-ir/discriminatory-consulting/' data-level='2'><span class="menu-item-text"><span class="menu-text">제타플랜의 차별적 컨설팅</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2236"><a href='http://zetaplan.com/investment-ir/investment-success/' data-level='2'><span class="menu-item-text"><span class="menu-text">투자유치 성공사례</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4606"><a href='http://zetaplan.com/investment-ir/%ec%86%8c%ec%9e%ac%eb%b6%80%ed%92%88-%ed%88%ac%ec%9e%90ir%ec%82%ac%ec%97%85/' data-level='2'><span class="menu-item-text"><span class="menu-text">소재부품 투자IR사업</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2232"><a href='http://zetaplan.com/investment-ir/consulting/' data-level='2'><span class="menu-item-text"><span class="menu-text">컨설팅 신청</span></span></a></li> </ul></li> <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1642 has-children"><a href='/ipo/listed-overview/' data-level='1'><span class="menu-item-text"><span class="menu-text">IPO</span></span></a><ul class="sub-nav hover-style-click-bg level-arrows-on"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-818 first"><a href='http://zetaplan.com/ipo/listed-overview/' data-level='2'><span class="menu-item-text"><span class="menu-text">상장의 개요</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-820"><a href='http://zetaplan.com/ipo/listed-effect-of-benefits/' data-level='2'><span class="menu-item-text"><span class="menu-text">상장의 혜택 및 효과</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-821"><a href='http://zetaplan.com/ipo/stock-market-ipo/' data-level='2'><span class="menu-item-text"><span class="menu-text">유가증권시장 상장</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-823"><a href='http://zetaplan.com/ipo/kosdaq-listed/' data-level='2'><span class="menu-item-text"><span class="menu-text">코스닥시장 상장</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2532"><a href='http://zetaplan.com/ipo/conex-listing/' data-level='2'><span class="menu-item-text"><span class="menu-text">코넥스시장 상장</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2531"><a href='http://zetaplan.com/ipo/spac-backdoor-listing/' data-level='2'><span class="menu-item-text"><span class="menu-text">SPAC우회상장</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-816"><a href='http://zetaplan.com/ipo/ipo-procedures/' data-level='2'><span class="menu-item-text"><span class="menu-text">IPO 절차</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-817"><a href='http://zetaplan.com/ipo/ipo-consulting-info/' data-level='2'><span class="menu-item-text"><span class="menu-text">IPO 컨설팅</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-822"><a href='http://zetaplan.com/ipo/ipo-consulting/' data-level='2'><span class="menu-item-text"><span class="menu-text">컨설팅 신청</span></span></a></li> </ul></li> <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1659 has-children"><a href='/corporate-finance/policy-funds/' data-level='1'><span class="menu-item-text"><span class="menu-text">기업금융</span></span></a><ul class="sub-nav hover-style-click-bg level-arrows-on"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-866 first"><a href='http://zetaplan.com/corporate-finance/policy-funds/' data-level='2'><span class="menu-item-text"><span class="menu-text">정책자금</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-865"><a href='http://zetaplan.com/corporate-finance/technology-guarantee/' data-level='2'><span class="menu-item-text"><span class="menu-text">기술보증</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-864"><a href='http://zetaplan.com/corporate-finance/credit-guarantee/' data-level='2'><span class="menu-item-text"><span class="menu-text">신용보증</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-863"><a href='http://zetaplan.com/corporate-finance/export-financing/' data-level='2'><span class="menu-item-text"><span class="menu-text">수출금융</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-862"><a href='http://zetaplan.com/corporate-finance/trade-financing-fund/' data-level='2'><span class="menu-item-text"><span class="menu-text">무역기금융자</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-861"><a href='http://zetaplan.com/corporate-finance/environmental-industry-loans/' data-level='2'><span class="menu-item-text"><span class="menu-text">환경산업융자</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-860"><a href='http://zetaplan.com/corporate-finance/guarantee-yourself-for-fisheries/' data-level='2'><span class="menu-item-text"><span class="menu-text">농림수산업자 신용보증</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-859"><a href='http://zetaplan.com/corporate-finance/development-fund-loan/' data-level='2'><span class="menu-item-text"><span class="menu-text">관광진흥개발기금융자</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-858"><a href='http://zetaplan.com/corporate-finance/technology-loan-application/' data-level='2'><span class="menu-item-text"><span class="menu-text">ICT응용기술개발융자</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-857"><a href='http://zetaplan.com/corporate-finance/corporate-finance-consulting/' data-level='2'><span class="menu-item-text"><span class="menu-text">컨설팅 신청</span></span></a></li> </ul></li> <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1669 has-children"><a href='/technology-finance/technology-financial-overview/' data-level='1'><span class="menu-item-text"><span class="menu-text">기술금융</span></span></a><ul class="sub-nav hover-style-click-bg level-arrows-on"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-929 first"><a href='http://zetaplan.com/technology-finance/technology-financial-overview/' data-level='2'><span class="menu-item-text"><span class="menu-text">기술금융 개요</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-928"><a href='http://zetaplan.com/technology-finance/tcb-technology-assessment-ioans/' data-level='2'><span class="menu-item-text"><span class="menu-text">TCB 기술평가대출</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-927"><a href='http://zetaplan.com/technology-finance/technology-valuation-ip-mortgage-loan/' data-level='2'><span class="menu-item-text"><span class="menu-text">기술가치평가 IP 담보대출</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-926"><a href='http://zetaplan.com/technology-finance/sales-license-back/' data-level='2'><span class="menu-item-text"><span class="menu-text">세일앤드라이센스백</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-925"><a href='http://zetaplan.com/technology-finance/intellectual-property-creation-warranty/' data-level='2'><span class="menu-item-text"><span class="menu-text">지식재산창출보증</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-924"><a href='http://zetaplan.com/technology-finance/technology-financial-investment/' data-level='2'><span class="menu-item-text"><span class="menu-text">기술금융투자</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-923"><a href='http://zetaplan.com/technology-finance/technology-finance-consulting/' data-level='2'><span class="menu-item-text"><span class="menu-text">컨설팅 신청</span></span></a></li> </ul></li> <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1676 has-children"><a href='/strategic-consulting/strategic-management-overview/' data-level='1'><span class="menu-item-text"><span class="menu-text">경영컨설팅</span></span></a><ul class="sub-nav hover-style-click-bg level-arrows-on"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-954 first"><a href='http://zetaplan.com/strategic-consulting/strategic-management-overview/' data-level='2'><span class="menu-item-text"><span class="menu-text">경영컨설팅 정의</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-953"><a href='http://zetaplan.com/strategic-consulting/business-strategy-consulting/' data-level='2'><span class="menu-item-text"><span class="menu-text">경영컨설팅 Matrix</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4553"><a href='http://zetaplan.com/strategic-consulting/%ec%a4%91%ec%86%8c%ea%b8%b0%ec%97%85%ea%b2%bd%ec%98%81%ec%bb%a8%ec%84%a4%ed%8c%85/' data-level='2'><span class="menu-item-text"><span class="menu-text">사업타당성분석</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4552"><a href='http://zetaplan.com/strategic-consulting/sba-%eb%b9%84%ec%a6%88%eb%8b%88%ec%8a%a4%ec%84%9c%eb%b9%84%ec%8a%a4bs-%ec%bb%a8%ec%84%a4%ed%8c%85/' data-level='2'><span class="menu-item-text"><span class="menu-text">경제성 평가</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4551"><a href='http://zetaplan.com/strategic-consulting/%ed%99%98%ea%b2%bd%ec%82%b0%ec%97%85%ea%b2%bd%ec%98%81%ec%bb%a8%ec%84%a4%ed%8c%85/' data-level='2'><span class="menu-item-text"><span class="menu-text">경영평가</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-950"><a href='http://zetaplan.com/strategic-consulting/strategic-consulting-apply/' data-level='2'><span class="menu-item-text"><span class="menu-text">컨설팅 신청</span></span></a></li> </ul></li> <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1681 has-children"><a href='/technology-deals/technical-trading-overview/' data-level='1'><span class="menu-item-text"><span class="menu-text">기술거래</span></span></a><ul class="sub-nav hover-style-click-bg level-arrows-on"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1017 first"><a href='http://zetaplan.com/technology-deals/technical-trading-overview/' data-level='2'><span class="menu-item-text"><span class="menu-text">기술거래 개요</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1041"><a href='http://zetaplan.com/technology-deals/technical-trading-procedure/' data-level='2'><span class="menu-item-text"><span class="menu-text">기술거래 절차</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1042"><a href='http://zetaplan.com/technology-deals/domestic-and-international-partners/' data-level='2'><span class="menu-item-text"><span class="menu-text">국내외 협력기관</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1040"><a href='http://zetaplan.com/technology-deals/domestic-and-foreign-technical-trading-photos/' data-level='2'><span class="menu-item-text"><span class="menu-text">국내외 기술거래 사진</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4248"><a href='http://zetaplan.com/technology-deals/%ec%9e%90%eb%a3%8c%ec%8b%a4/' data-level='2'><span class="menu-item-text"><span class="menu-text">자료실</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1039"><a href='http://zetaplan.com/technology-deals/information-technology-transactions/' data-level='2'><span class="menu-item-text"><span class="menu-text">기술거래 리스트</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1936"><a href='http://zetaplan.com/technology-deals/registration-technology-introduced-hope/' data-level='2'><span class="menu-item-text"><span class="menu-text">도입희망기술등록</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1935"><a href='http://zetaplan.com/technology-deals/previous-hope-technology/' data-level='2'><span class="menu-item-text"><span class="menu-text">이전희망기술등록</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1038"><a href='http://zetaplan.com/technology-deals/technical-trading-consulting/' data-level='2'><span class="menu-item-text"><span class="menu-text">기술거래 상담신청</span></span></a></li> </ul></li> <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1689 has-children"><a href='http://zetaplan.com/business-certification/%EA%B8%B0%EC%97%85-%EC%9D%B8%EC%A6%9D-%EB%A1%9C%EB%93%9C%EB%A7%B5/' data-level='1'><span class="menu-item-text"><span class="menu-text">기업인증</span></span></a><ul class="sub-nav hover-style-click-bg level-arrows-on"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5261 first"><a href='http://zetaplan.com/business-certification/%ea%b8%b0%ec%97%85-%ec%9d%b8%ec%a6%9d-%eb%a1%9c%eb%93%9c%eb%a7%b5/' data-level='2'><span class="menu-item-text"><span class="menu-text">제타플랜 인증지원 차별점</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-580"><a href='http://zetaplan.com/business-certification/r-d-center/' data-level='2'><span class="menu-item-text"><span class="menu-text">기업부설연구소</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-583"><a href='http://zetaplan.com/business-certification/venture-company/' data-level='2'><span class="menu-item-text"><span class="menu-text">벤처기업</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-588"><a href='http://zetaplan.com/business-certification/innobiz-company/' data-level='2'><span class="menu-item-text"><span class="menu-text">이노비즈기업</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-582"><a href='http://zetaplan.com/business-certification/main-business-companies/' data-level='2'><span class="menu-item-text"><span class="menu-text">메인비즈기업</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4241"><a href='http://zetaplan.com/business-certification/iso-%ec%9d%b8%ec%a6%9d/' data-level='2'><span class="menu-item-text"><span class="menu-text">ISO9001/14001</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-586"><a href='http://zetaplan.com/business-certification/promising-export-firm/' data-level='2'><span class="menu-item-text"><span class="menu-text">수출유망중소기업</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-584"><a href='http://zetaplan.com/business-certification/excellent-service-quality-company/' data-level='2'><span class="menu-item-text"><span class="menu-text">서비스품질우수기업</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-585"><a href='http://zetaplan.com/business-certification/material-components-specialist/' data-level='2'><span class="menu-item-text"><span class="menu-text">소재부품전문기업</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-581"><a href='http://zetaplan.com/business-certification/brain-empowerment-excellent-company/' data-level='2'><span class="menu-item-text"><span class="menu-text">두뇌역량강화우수기업</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-587"><a href='http://zetaplan.com/business-certification/world-class-300/' data-level='2'><span class="menu-item-text"><span class="menu-text">월드클래스300</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-895"><a href='http://zetaplan.com/business-certification/ip-star-company/' data-level='2'><span class="menu-item-text"><span class="menu-text">IP Star 기업</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-894"><a href='http://zetaplan.com/business-certification/promising-sme/' data-level='2'><span class="menu-item-text"><span class="menu-text">경기도 유망중소기업</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-893"><a href='http://zetaplan.com/business-certification/training-company/' data-level='2'><span class="menu-item-text"><span class="menu-text">인재육성형 중소기업</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-892"><a href='http://zetaplan.com/business-certification/professional-research-staff-islands/' data-level='2'><span class="menu-item-text"><span class="menu-text">전문연구인력제도</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-891"><a href='http://zetaplan.com/business-certification/industrial-facilities-personnel-islands/' data-level='2'><span class="menu-item-text"><span class="menu-text">산업기능요원제도</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3914"><a href='http://zetaplan.com/business-certification/%ec%9a%b0%ec%88%98%ea%b7%b8%eb%a6%b0%eb%b9%84%ec%a6%88/' data-level='2'><span class="menu-item-text"><span class="menu-text">우수그린비즈</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4706"><a href='http://zetaplan.com/business-certification/%ec%97%b0%ea%b5%ac%ec%86%8c%ea%b8%b0%ec%97%85-%ec%9d%b8%ec%a6%9d/' data-level='2'><span class="menu-item-text"><span class="menu-text">연구소기업</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-589"><a href='http://zetaplan.com/business-certification/company-consulting/' data-level='2'><span class="menu-item-text"><span class="menu-text">컨설팅신청</span></span></a></li> </ul></li> <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1691 has-children"><a href='/technology-and-product-certification/technology-certification/' data-level='1'><span class="menu-item-text"><span class="menu-text">기술·제품인증</span></span></a><ul class="sub-nav hover-style-click-bg level-arrows-on"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1074 first"><a href='http://zetaplan.com/technology-and-product-certification/technology-certification/' data-level='2'><span class="menu-item-text"><span class="menu-text">신기술인증</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1073"><a href='http://zetaplan.com/technology-and-product-certification/new-certification/' data-level='2'><span class="menu-item-text"><span class="menu-text">신제품인증</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1072"><a href='http://zetaplan.com/technology-and-product-certification/performance-certification/' data-level='2'><span class="menu-item-text"><span class="menu-text">성능인증</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2818"><a href='http://zetaplan.com/technology-and-product-certification/%eb%85%b9%ec%83%89%ec%9d%b8%ec%a6%9d/' data-level='2'><span class="menu-item-text"><span class="menu-text">녹색기술인증</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5019"><a href='http://zetaplan.com/technology-and-product-certification/%ed%99%98%ea%b2%bd%ed%91%9c%ec%a7%80%ec%9d%b8%ec%a6%9d%ed%99%98%ea%b2%bd%eb%a7%88%ed%81%ac/' data-level='2'><span class="menu-item-text"><span class="menu-text">환경표지인증(환경마크)</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1071"><a href='http://zetaplan.com/technology-and-product-certification/k-mark/' data-level='2'><span class="menu-item-text"><span class="menu-text">K마크</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1069"><a href='http://zetaplan.com/technology-and-product-certification/pps-an-excellent-product-system/' data-level='2'><span class="menu-item-text"><span class="menu-text">조달청 우수제품제도</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1068"><a href='http://zetaplan.com/technology-and-product-certification/technical-product-certification-consulting/' data-level='2'><span class="menu-item-text"><span class="menu-text">컨설팅 신청</span></span></a></li> </ul></li> <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2275 has-children"><a href='/credit-rating/services-overview/' data-level='1'><span class="menu-item-text"><span class="menu-text">신용평가</span></span></a><ul class="sub-nav hover-style-click-bg level-arrows-on"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2274 first"><a href='http://zetaplan.com/credit-rating/services-overview/' data-level='2'><span class="menu-item-text"><span class="menu-text">기업신용평가서비스</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2273"><a href='http://zetaplan.com/credit-rating/credit-rating-services/' data-level='2'><span class="menu-item-text"><span class="menu-text">공공입찰 기업신용평가</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2272"><a href='http://zetaplan.com/credit-rating/parent-support-services-and-partners/' data-level='2'><span class="menu-item-text"><span class="menu-text">당좌거래 기업신용평가</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2271"><a href='http://zetaplan.com/credit-rating/international-credit-information-services/' data-level='2'><span class="menu-item-text"><span class="menu-text">아파트입찰용 신용평가</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3943"><a href='http://zetaplan.com/credit-rating/%ed%98%91%eb%a0%a5%ec%97%85%ec%b2%b4-%ec%8b%a0%ec%9a%a9%ed%8f%89%ea%b0%80/' data-level='2'><span class="menu-item-text"><span class="menu-text">협력업체 신용평가</span></span></a></li> <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4930"><a href='http://aff.g2brating.co.kr/affiliate/affs_index.do?param=zeta' data-level='2'><span class="menu-item-text"><span class="menu-text">신용평가 신청</span></span></a></li> </ul></li> <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1690 has-children"><a href='/overseas/about-overseas-business/' data-level='1'><span class="menu-item-text"><span class="menu-text">해외진출</span></span></a><ul class="sub-nav hover-style-click-bg level-arrows-on"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2576 first"><a href='http://zetaplan.com/overseas/about-overseas-business/' data-level='2'><span class="menu-item-text"><span class="menu-text">해외진출 사업 소개</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2574"><a href='http://zetaplan.com/overseas/zeta-plan-international-network/' data-level='2'><span class="menu-item-text"><span class="menu-text">제타플랜 해외네트워크</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15408"><a href='http://zetaplan.com/overseas/%ea%b8%80%eb%a1%9c%eb%b2%8c-%ea%b8%b0%ec%88%a0%ec%82%ac%ec%97%85%ed%99%94-%ec%bb%a8%ec%84%a4%ed%8c%85-%ec%a7%80%ec%9b%90%ec%82%ac%ec%97%85%eb%b6%81%ea%b2%bd-gcc/' data-level='2'><span class="menu-item-text"><span class="menu-text">글로벌기술사업화(중국)</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2573"><a href='http://zetaplan.com/overseas/china-overseas-private-network-business-strategy/' data-level='2'><span class="menu-item-text"><span class="menu-text">해외지사화사업</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11217"><a href='http://zetaplan.com/overseas/%ec%88%98%ec%b6%9c%eb%b0%94%ec%9a%b0%ec%b2%98%ec%82%ac%ec%97%85/' data-level='2'><span class="menu-item-text"><span class="menu-text">수출바우처사업 개괄소개</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2571"><a href='http://zetaplan.com/overseas/global-investment-support-kitia/' data-level='2'><span class="menu-item-text"><span class="menu-text">해외진출전략수립</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2570"><a href='http://zetaplan.com/overseas/at-agricultural-products-export-assistance/' data-level='2'><span class="menu-item-text"><span class="menu-text">해외시장조사</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2569"><a href='http://zetaplan.com/overseas/sba-advance-the-green-industry-support/' data-level='2'><span class="menu-item-text"><span class="menu-text">해외바이어발굴</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2567"><a href='http://zetaplan.com/overseas/kotra-business/' data-level='2'><span class="menu-item-text"><span class="menu-text">해외법인설립</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2575"><a href='http://zetaplan.com/overseas/support-business-expansion-in-vietnam/' data-level='2'><span class="menu-item-text"><span class="menu-text">베트남 진출지원</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2568"><a href='http://zetaplan.com/overseas/environmental-industry-technology-institute-overseas-support/' data-level='2'><span class="menu-item-text"><span class="menu-text">환경산업 해외진출지원사업</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1096"><a href='http://zetaplan.com/overseas/overseas-consulting/' data-level='2'><span class="menu-item-text"><span class="menu-text">컨설팅 신청</span></span></a></li> </ul></li> 	</ul>
+	<div class='mobile-mini-widgets-in-menu'></div>
+</div>
+	
+	
+	<div id="main" class="sidebar-left sidebar-divider-off"><!-- class="sidebar-none", class="sidebar-left", class="sidebar-right" -->
+
+		
+		<div class="main-gradient"></div>
+		<div class="wf-wrap">
+			<div class="wf-container-main">
+
+				
+	
+		
+			<div id="content" class="content" role="main">
+
+			
+					
+					<div class="vc_row wpb_row wf-container" style="margin-top: 0px;margin-bottom: 0px"><div class="wpb_column vc_column_container vc_col-sm-8 vc_custom_1452499711354"><div class="wpb_wrapper"><div class="wpb_layerslider_element wpb_content_element"><script data-cfasync="false" type="text/javascript">var lsjQuery = jQuery;</script><script data-cfasync="false" type="text/javascript">
+lsjQuery(document).ready(function() {
+if(typeof lsjQuery.fn.layerSlider == "undefined") { lsShowNotice('layerslider_3_1669194117_1','jquery'); }
+else {
+lsjQuery("#layerslider_3_1669194117_1").layerSlider({startInViewport: false, pauseOnHover: false, forceLoopNum: false, hoverPrevNext: false, thumbnailNavigation: 'disabled', autoPlayVideos: false, skinsPath: 'http://zetaplan.com/wp-content/plugins/LayerSlider/static/skins/'})
+}
+});
+</script><div id="layerslider_3_1669194117_1" class="ls-wp-container" style="width:625px;height:170px;max-width:625px;margin:0 auto;margin-bottom: 0px;"><div class="ls-slide" data-ls="slidedelay:7000;transition2d:5;"><img src="http://zetaplan.com/wp-content/uploads/2016/02/이름-없음.jpg" class="ls-bg" alt="이름 없음" /></div><div class="ls-slide" data-ls="transition2d:5;"><img src="http://zetaplan.com/wp-content/uploads/2021/12/수출바우처로고.jpg" class="ls-bg" alt="수출바우처로고" /><a href="http://zetaplan.com/government-support-project/?uid=9058&mod=document" target="_blank" class="ls-link"></a></div><div class="ls-slide" data-ls="transition2d:5;"><img src="http://zetaplan.com/wp-content/uploads/2019/07/슬라이드21-1.png" class="ls-bg" alt="슬라이드21-1" /><a href="http://zetaplan.com/government-support-project/?uid=5721&mod=document" target="_blank" class="ls-link"></a></div><div class="ls-slide" data-ls="transition2d:5;"><img src="http://zetaplan.com/wp-content/uploads/2022/02/배너2.jpg" class="ls-bg" alt="배너2" /><a href="http://zetaplan.com/ma/ma-deal-info/?uid=9299&mod=document" target="_blank" class="ls-link"></a></div></div></div><div class="vc_row wpb_row vc_inner wf-container"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="wpb_wrapper"><div class="vc_empty_space"  style="height: 20px" ><span class="vc_empty_space_inner"></span></div>
+</div></div></div><div class="vc_row wpb_row vc_inner wf-container vc_custom_1452831755508"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="wpb_wrapper"><section id="benefits-grid-1" class="benefits-grid wf-container custom-bg accent-hover-bg custom-icon-color accent-icon-hover-color" data-width="100px" data-columns="6"><style type="text/css">#benefits-grid-1 .benefits-grid-ico > .fa { font-size: 36px; line-height: 36px; }#benefits-grid-1.custom-icon-color .benefits-grid-ico > .fa,
+					#benefits-grid-1.custom-icon-color .benefits-grid-ico > .fa:before { color: #e35500; }</style><div class="wf-cell"><div><div class="text-small"><div class="benefit-line-decoration"><a href="/business-certification/기업-인증-로드맵/" class="benefits-grid-ico"><i class="fa fa-building-o"></i></a><h6 class="benefit-title"><a href="/business-certification/기업-인증-로드맵/">기업인증지원</a></h6></div></div></div></div><div class="wf-cell"><div><div class="text-small"><div class="benefit-line-decoration"><a href="/business-plan/" class="benefits-grid-ico"><i class="fa fa-file-text-o"></i></a><h6 class="benefit-title"><a href="/business-plan/">사업계획서</a></h6></div></div></div></div><div class="wf-cell"><div><div class="text-small"><div class="benefit-line-decoration"><a href="/investment-ir/investment-consulting-ir-overview/" class="benefits-grid-ico"><i class="fa icon-chart-bar"></i></a><h6 class="benefit-title"><a href="/investment-ir/investment-consulting-ir-overview/">투자IR컨설팅</a></h6></div></div></div></div><div class="wf-cell"><div><div class="text-small"><div class="benefit-line-decoration"><a href="/ipo/ipo-consulting-info/" class="benefits-grid-ico"><i class="fa icon-chart-line"></i></a><h6 class="benefit-title"><a href="/ipo/ipo-consulting-info/">IPO컨설팅</a></h6></div></div></div></div><div class="wf-cell"><div><div class="text-small"><div class="benefit-line-decoration"><a href="/ma/ma-summary/" class="benefits-grid-ico"><i class="fa fa-university"></i></a><h6 class="benefit-title"><a href="/ma/ma-summary/">M&#038;A컨설팅</a></h6></div></div></div></div><div class="wf-cell"><div><div class="text-small"><div class="benefit-line-decoration"><a href="/overseas/about-overseas-business/" class="benefits-grid-ico"><i class="fa fa-plane"></i></a><h6 class="benefit-title"><a href="/overseas/about-overseas-business/">해외진출</a></h6></div></div></div></div></section><div class="vc_empty_space"  style="height: 20px" ><span class="vc_empty_space_inner"></span></div>
+</div></div></div><div class="vc_row wpb_row vc_inner wf-container vc_custom_1452834825179"><div class="wpb_column vc_column_container vc_col-sm-6"><div class="wpb_wrapper">
+	<div class="wpb_text_column wpb_content_element  vc_custom_1453873815618 main-board-latest1">
+		<div class="wpb_wrapper">
+			<div class="board-latest-title left">
+<h5>정부지원사업 참여 모집</h5>
+</div>
+<div class="board-more right"><a href="/government-support-project/">더보기 <i class="fa fa-plus-circle"></i></a></div>
+<div class="board-clearfix"></div>
+<div id="kboard-default-latest">
+	<table>
+		<!-- 
+		<thead>
+			<tr>
+				<th class="kboard-latest-title">제목</th>
+				<th class="kboard-latest-date">작성일</th>
+			</tr>
+		</thead>
+		-->
+		<tbody>
+						<tr>
+				<td class="kboard-latest-title"><div class="cut_strings"><a href="/government-support-project/?uid=10018&mod=document">[KITIA] 2022년 동남권 외국인투자 카라반</a> </div></td>
+				<td class="kboard-latest-date">2022.09.19</td>
+			</tr>
+						<tr>
+				<td class="kboard-latest-title"><div class="cut_strings"><a href="/government-support-project/?uid=10016&mod=document">[KITIA] 2022 글로벌 기술도입 컨퍼런스 개최 안내</a> </div></td>
+				<td class="kboard-latest-date">2022.09.19</td>
+			</tr>
+						<tr>
+				<td class="kboard-latest-title"><div class="cut_strings"><a href="/government-support-project/?uid=10000&mod=document">2022 외국인투자 카라반 동남권 간담회 (상담회·포럼)</a> </div></td>
+				<td class="kboard-latest-date">2022.09.14</td>
+			</tr>
+						<tr>
+				<td class="kboard-latest-title"><div class="cut_strings"><a href="/government-support-project/?uid=9997&mod=document">‘22년 민간주도형 예비창업지원 프로그램(시드 팁스)</a> </div></td>
+				<td class="kboard-latest-date">2022.09.14</td>
+			</tr>
+					</tbody>
+	</table>
+</div>
+
+		</div>
+	</div>
+</div></div><div class="wpb_column vc_column_container vc_col-sm-6"><div class="wpb_wrapper">
+	<div class="wpb_text_column wpb_content_element  vc_custom_1456284652516 main-board-latest2">
+		<div class="wpb_wrapper">
+			<div class="board-latest-title left">
+<h5>M&amp;A·투자정보</h5>
+</div>
+<div class="board-more right"><a href="/ma/ma-deal-info/">더보기 <i class="fa fa-plus-circle"></i></a></div>
+<div class="board-clearfix"></div>
+<div id="kboard-default-latest">
+	<table>
+		<!-- 
+		<thead>
+			<tr>
+				<th class="kboard-latest-title">제목</th>
+				<th class="kboard-latest-date">작성일</th>
+			</tr>
+		</thead>
+		-->
+		<tbody>
+						<tr>
+				<td class="kboard-latest-title"><div class="cut_strings"><a href="/ma/ma-deal-info/?uid=10061&mod=document">[공지]&nbsp;[KITIA] 2022글로벌 기술도입 컨퍼런스 개최 안내 (2022.10.11.(화))</a> </div></td>
+				<td class="kboard-latest-date">2022.10.04</td>
+			</tr>
+						<tr>
+				<td class="kboard-latest-title"><div class="cut_strings"><a href="/ma/ma-deal-info/?uid=10060&mod=document">[공지]&nbsp;[KITIA] Tech M&amp;A 웹진 10월호</a> </div></td>
+				<td class="kboard-latest-date">2022.10.04</td>
+			</tr>
+						<tr>
+				<td class="kboard-latest-title"><div class="cut_strings"><a href="/ma/ma-deal-info/?uid=9999&mod=document">[공지]&nbsp;2022년 경기스타트업 공정M&amp;A지원  “세무·회계, 법률, 가치평가 등 적정성 검증지원”</a> </div></td>
+				<td class="kboard-latest-date">2022.09.14</td>
+			</tr>
+						<tr>
+				<td class="kboard-latest-title"><div class="cut_strings"><a href="/ma/ma-deal-info/?uid=9998&mod=document">[공지]&nbsp;‘22년 민간주도형 예비창업지원 프로그램(시드 팁스)</a> </div></td>
+				<td class="kboard-latest-date">2022.09.14</td>
+			</tr>
+					</tbody>
+	</table>
+</div>
+
+		</div>
+	</div>
+</div></div></div><div class="vc_empty_space"  style="height: 20px" ><span class="vc_empty_space_inner"></span></div>
+<div class="vc_row wpb_row vc_inner wf-container vc_custom_1452834825179"><div class="wpb_column vc_column_container vc_col-sm-6"><div class="wpb_wrapper">
+	<div class="wpb_text_column wpb_content_element  vc_custom_1453873362581 main-board-latest3">
+		<div class="wpb_wrapper">
+			<div class="board-latest-title left">
+<h5>정책자금/기업지원정보</h5>
+</div>
+<div class="board-more right"><a href="/business-support-information/">더보기 <i class="fa fa-plus-circle"></i></a></div>
+<div class="board-clearfix"></div>
+<div id="kboard-default-latest">
+	<table>
+		<!-- 
+		<thead>
+			<tr>
+				<th class="kboard-latest-title">제목</th>
+				<th class="kboard-latest-date">작성일</th>
+			</tr>
+		</thead>
+		-->
+		<tbody>
+						<tr>
+				<td class="kboard-latest-title"><div class="cut_strings"><a href="/business-support-information/?uid=10139&mod=document">[서울] 창업지원시설 우수입주기업 지원사업(투자용 기술가치평가 보고서 제작) 모집 공고</a> </div></td>
+				<td class="kboard-latest-date">2022.11.11</td>
+			</tr>
+						<tr>
+				<td class="kboard-latest-title"><div class="cut_strings"><a href="/business-support-information/?uid=10138&mod=document">[서울] 금천구ㆍ구로구 G밸리 창업큐브 IR 데모데이 컨설팅 지원사업 참가기업 모집 공고</a> </div></td>
+				<td class="kboard-latest-date">2022.11.11</td>
+			</tr>
+						<tr>
+				<td class="kboard-latest-title"><div class="cut_strings"><a href="/business-support-information/?uid=10131&mod=document">2023년 맞춤형 기술파트너 지원사업 공학컨설팅센터 모집 공고</a> </div></td>
+				<td class="kboard-latest-date">2022.11.04</td>
+			</tr>
+						<tr>
+				<td class="kboard-latest-title"><div class="cut_strings"><a href="/business-support-information/?uid=10130&mod=document">[경남] 2022년 2차 지역투자생태계 조성지원사업 참여기업 모집 공고</a> </div></td>
+				<td class="kboard-latest-date">2022.11.04</td>
+			</tr>
+					</tbody>
+	</table>
+</div>
+
+		</div>
+	</div>
+</div></div><div class="wpb_column vc_column_container vc_col-sm-6"><div class="wpb_wrapper">
+	<div class="wpb_text_column wpb_content_element  vc_custom_1454376546202 main-board-latest4">
+		<div class="wpb_wrapper">
+			<div class="board-latest-title left">
+<h5>기술거래 리스트</h5>
+</div>
+<div class="board-more right"><a href="/technology-deals/information-technology-transactions/">더보기 <i class="fa fa-plus-circle"></i></a></div>
+<div class="board-clearfix"></div>
+<div id="kboard-default-latest">
+	<table>
+		<!-- 
+		<thead>
+			<tr>
+				<th class="kboard-latest-title">제목</th>
+				<th class="kboard-latest-date">작성일</th>
+			</tr>
+		</thead>
+		-->
+		<tbody>
+						<tr>
+				<td class="kboard-latest-title"><div class="cut_strings"><a href="/technology-deals/information-technology-transactions/?uid=10141&mod=document">[구매]&nbsp;물품 자동 분류시스템의 인덕션-캐리어 실시간 동기제어방법</a> </div></td>
+				<td class="kboard-latest-date">2022.11.11</td>
+			</tr>
+						<tr>
+				<td class="kboard-latest-title"><div class="cut_strings"><a href="/technology-deals/information-technology-transactions/?uid=10140&mod=document">[판매]&nbsp;인공지능 기반의 언어 능력 평가 방법 및 시스템</a> </div></td>
+				<td class="kboard-latest-date">2022.11.11</td>
+			</tr>
+						<tr>
+				<td class="kboard-latest-title"><div class="cut_strings"><a href="/technology-deals/information-technology-transactions/?uid=10133&mod=document">[구매]&nbsp;표정 인식 장치 및 이를 이용한 치매환자 관리서비스 서버</a> </div></td>
+				<td class="kboard-latest-date">2022.11.04</td>
+			</tr>
+						<tr>
+				<td class="kboard-latest-title"><div class="cut_strings"><a href="/technology-deals/information-technology-transactions/?uid=10132&mod=document">[판매]&nbsp;제스처 데이터 수집 및 관리 시스템</a> </div></td>
+				<td class="kboard-latest-date">2022.11.04</td>
+			</tr>
+					</tbody>
+	</table>
+</div>
+
+		</div>
+	</div>
+</div></div></div><div class="vc_empty_space"  style="height: 20px" ><span class="vc_empty_space_inner"></span></div>
+<div class="vc_row wpb_row vc_inner wf-container vc_custom_1452834825179"><div class="wpb_column vc_column_container vc_col-sm-6"><div class="wpb_wrapper">
+	<div class="wpb_text_column wpb_content_element  vc_custom_1453874739459 main-board-latest5">
+		<div class="wpb_wrapper">
+			<div class="board-latest-title left">
+<h5>Q&amp;A</h5>
+</div>
+<div class="board-more right"><a href="/qa/">더보기 <i class="fa fa-plus-circle"></i></a></div>
+<div class="board-clearfix"></div>
+<div id="kboard-default-latest">
+	<table>
+		<!-- 
+		<thead>
+			<tr>
+				<th class="kboard-latest-title">제목</th>
+				<th class="kboard-latest-date">작성일</th>
+			</tr>
+		</thead>
+		-->
+		<tbody>
+						<tr>
+				<td class="kboard-latest-title"><div class="cut_strings"><a href="/qa/?uid=10144&mod=document">기업부설연구소 질문</a> </div></td>
+				<td class="kboard-latest-date">2022.11.11</td>
+			</tr>
+						<tr>
+				<td class="kboard-latest-title"><div class="cut_strings"><a href="/qa/?uid=10142&mod=document">메타버스는 판매촉진에 해당하나요?</a> </div></td>
+				<td class="kboard-latest-date">2022.11.11</td>
+			</tr>
+						<tr>
+				<td class="kboard-latest-title"><div class="cut_strings"><a href="/qa/?uid=10136&mod=document">사업자폐업후 다시 재창업하면 사업자창원지원금 대상자에 해당되는건가요?</a> </div></td>
+				<td class="kboard-latest-date">2022.11.04</td>
+			</tr>
+						<tr>
+				<td class="kboard-latest-title"><div class="cut_strings"><a href="/qa/?uid=10134&mod=document">신용보증재단 사업자대출 연장</a> </div></td>
+				<td class="kboard-latest-date">2022.11.04</td>
+			</tr>
+					</tbody>
+	</table>
+</div>
+
+		</div>
+	</div>
+</div></div><div class="wpb_column vc_column_container vc_col-sm-6"><div class="wpb_wrapper">
+	<div class="wpb_text_column wpb_content_element  vc_custom_1453874839964 main-board-latest6">
+		<div class="wpb_wrapper">
+			<div class="board-latest-title left">
+<h5>컨설팅 실적</h5>
+</div>
+<div class="board-more right"><a href="/performance-consulting/">더보기 <i class="fa fa-plus-circle"></i></a></div>
+<div class="board-clearfix"></div>
+<div id="kboard-default-latest">
+	<table>
+		<!-- 
+		<thead>
+			<tr>
+				<th class="kboard-latest-title">제목</th>
+				<th class="kboard-latest-date">작성일</th>
+			</tr>
+		</thead>
+		-->
+		<tbody>
+						<tr>
+				<td class="kboard-latest-title"><div class="cut_strings"><a href="/performance-consulting/?uid=9958&mod=document">[투자IR]&nbsp;광주정보문화산업진흥원 투자진흥지구 유치기업 발굴 및 기업유치 설명회 개최 운영</a> </div></td>
+				<td class="kboard-latest-date">2022.08.30</td>
+			</tr>
+						<tr>
+				<td class="kboard-latest-title"><div class="cut_strings"><a href="/performance-consulting/?uid=9957&mod=document">[투자IR]&nbsp;KITIA 2022년 제1회 싱가포르 투자유치로드쇼</a> </div></td>
+				<td class="kboard-latest-date">2022.08.30</td>
+			</tr>
+						<tr>
+				<td class="kboard-latest-title"><div class="cut_strings"><a href="/performance-consulting/?uid=9907&mod=document">[투자IR]&nbsp;KITIA 소부장 기업 IR (’22년 소재부품장비 투자협력사업)</a> </div></td>
+				<td class="kboard-latest-date">2022.08.10</td>
+			</tr>
+						<tr>
+				<td class="kboard-latest-title"><div class="cut_strings"><a href="/performance-consulting/?uid=9906&mod=document">[기타]&nbsp;성남산업진흥원 2022 융복합 콘텐츠기업 육성 엑셀러레이팅 운영</a> </div></td>
+				<td class="kboard-latest-date">2022.08.10</td>
+			</tr>
+					</tbody>
+	</table>
+</div>
+
+		</div>
+	</div>
+</div></div></div><div class="vc_empty_space"  style="height: 20px" ><span class="vc_empty_space_inner"></span></div>
+</div></div><div class="wpb_column vc_column_container vc_col-sm-4"><div class="wpb_wrapper"><div class="vc_row wpb_row vc_inner wf-container"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="wpb_wrapper">
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<table id="sidebar_icon_link" style="width: 100%; border: 1px solid #E4E4E4 !important; background-color: #ffffff;">
+<tbody>
+<tr>
+<td style="margin: 0px; padding: 0 0 0 10px;" colspan="2">자주 찾는 인증</td>
+<td style="text-align: right; margin: 0px; padding: 0px;"><img class="auth_page" style="position: relative; top: 3px; cursor: pointer;" src="http://zetaplan.com/wp-content/uploads/2016/01/ic_keyboard_arrow_right_48px-32.png" alt="" /></td>
+</tr>
+<tr>
+<td style="text-align: center;" colspan="3">
+<div id="bookmark_auth1" style="width: 100%;">
+<table style="width: 100%; border: none !important; background-color: #ffffff; margin-bottom: 0px;" width="100%">
+<tbody>
+<tr>
+<td style="width: 32% !important; padding: 4px 0 0 5px !important; text-align: center; border-top: none !important;"><a style="color: #555555; font-size: 12px;" href="/business-certification/innobiz-company/"><img class="alignnone size-full wp-image-1385" style="margin-bottom: 0px; height: 31px;" src="wp-content/uploads/2015/12/이노8.png" alt="" align="absmiddle" /><br />
+이노비즈</a></td>
+<td style="width: 32% !important; padding: 4px 0 0 0 !important; text-align: center; border-top: none !important;"><a style="color: #555555; font-size: 12px;" href="/business-certification/main-business-companies/"><img class="alignnone size-full wp-image-1385" style="margin-bottom: 0px; height: 31px;" src="/wp-content/uploads/2015/12/메인3.png" alt="" align="absmiddle" /><br />
+메인비즈</a></td>
+<td style="width: 36% !important; padding: 4px 5px 0 0 !important; text-align: center; border-top: none !important;"><a style="color: #555555; font-size: 12px;" href="/business-certification/venture-company/"><img class="alignnone size-full wp-image-1385" style="margin-bottom: 0px; height: 31px;" src="wp-content/uploads/2015/12/벤처2.png" alt="" align="absmiddle" /><br />
+벤처기업<br />
+</a></td>
+</tr>
+<tr>
+<td style="width: 32% !important; padding: 0 0 4px 5px !important; text-align: center; border-top: none !important;"><a style="color: #555555; font-size: 12px;" href="/business-certification/r-d-center/"><img class="alignnone size-full wp-image-1385" style="margin-bottom: 0px; height: 31px;" src="/wp-content/uploads/2015/12/연구소.jpg" alt="" align="absmiddle" /><br />
+연구소</a></td>
+<td style="width: 32% !important; padding: 0 0 4px 0 !important; text-align: center; border-top: none !important;"><a style="color: #555555; font-size: 12px;" href="/technology-and-product-certification/녹색인증/"><img class="alignnone size-full wp-image-1385" style="margin-bottom: 0px; height: 31px;" src="/wp-content/uploads/2016/02/noname01.bmp" alt="" align="absmiddle" /><br />
+녹색인증</a></td>
+<td style="width: 36% !important; padding: 0 5px 4px 0 !important; text-align: center; border-top: none !important;"><a style="color: #555555; font-size: 12px;" href="/business-certification/world-class-300/"><img class="alignnone size-full wp-image-1385" style="margin-bottom: 0px; height: 31px;" src="/wp-content/uploads/2015/12/캡처31-e1457675901913.png" alt="" align="absmiddle" /><br />
+월드클래스300</a></td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="bookmark_auth2" style="width: 100%; display: none;">
+<table style="width: 100%; border: none !important; background-color: #ffffff;" width="100%">
+<tbody>
+<tr>
+<td style="width: 33% !important; padding: 4px 0 0 5px !important; text-align: center; border-top: none !important;"><a style="color: #555555; font-size: 12px;" href="/business-certification/brain-empowerment-excellent-company/"><img class="alignnone size-full wp-image-1385" style="margin-bottom: 0px; height: 31px;" src="/wp-content/uploads/2016/01/auth8.png" alt="" align="absmiddle" /><br />
+KBrainPower</a></td>
+<td style="width: 33% !important; padding: 4px 0 0 0 !important; text-align: center; border-top: none !important;"><a style="color: #555555; font-size: 12px;" href="/technology-and-product-certification/technology-certification/"><img class="alignnone size-full wp-image-1385" style="margin-bottom: 0px; height: 31px;" src="/wp-content/uploads/2016/01/auth9.png" alt="" align="absmiddle" /><br />
+신기술인증</a></td>
+<td style="width: 34% !important; padding: 4px 5px 0 0 !important; text-align: center; border-top: none !important;"><a style="color: #555555; font-size: 12px;" href="/technology-and-product-certification/new-certification/"><img class="alignnone size-full wp-image-1385" style="margin-bottom: 0px; height: 31px;" src="/wp-content/uploads/2016/01/auth10.png" alt="" align="absmiddle" /><br />
+신제품인증</a></td>
+</tr>
+<tr>
+<td style="width: 36% !important; padding: 0 0 4px 5px !important; text-align: center; border-top: none !important;"><a style="color: #555555; font-size: 9px;" href="/business-certification/excellent-service-quality-company/"><img class="alignnone size-full wp-image-1385" style="margin-bottom: 0px; height: 31px;" src="/wp-content/uploads/2015/12/서비스품질우수기업.jpg" alt="" align="absmiddle" /><br />
+서비스품질우수기업</a></td>
+<td style="width: 32% !important; padding: 0 0 4px 0 !important; text-align: center; border-top: none !important;"><a style="color: #555555; font-size: 12px;" href="/technology-and-product-certification/pps-an-excellent-product-system/"><img class="alignnone size-full wp-image-1385" style="margin-bottom: 0px; height: 31px;" src="/wp-content/uploads/2016/01/auth11.png" alt="" align="absmiddle" /><br />
+우수제품</a></td>
+<td style="width: 32% !important; padding: 0 5px 4px 0 !important; text-align: center; border-top: none !important;"><a style="color: #555555; font-size: 12px;" href="/business-certification/iso-%EC%9D%B8%EC%A6%9D/ "><img class="alignnone size-full wp-image-1385" style="margin-bottom: 0px; height: 31px;" src="wp-content/uploads/2015/12/iso-e1457676176671.png" alt="" align="absmiddle" /><br />
+ISO인증</a></td>
+</tr>
+</tbody>
+</table>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+
+		</div>
+	</div>
+<div class="vc_empty_space"  style="height: 15px" ><span class="vc_empty_space_inner"></span></div>
+</div></div></div><div class="vc_tta-container" data-vc-action="collapse"><div class="vc_general vc_tta vc_tta-tabs vc_tta-color-chino vc_tta-style-classic vc_tta-shape-square vc_tta-spacing-3 main-right-tab vc_tta-tabs-position-top vc_tta-controls-align-left main-right-tab"><div class="vc_tta-tabs-container"><ul class="vc_tta-tabs-list"><li class="vc_tta-tab vc_active" data-vc-tab><a href="#1449463818471-48b4a02b-a87b" data-vc-tabs data-vc-container=".vc_tta"><span class="vc_tta-title-text">Activities</span></a></li><li class="vc_tta-tab" data-vc-tab><a href="#1449463818471-48b4a02b-a87c" data-vc-tabs data-vc-container=".vc_tta"><span class="vc_tta-title-text">Domestic</span></a></li><li class="vc_tta-tab" data-vc-tab><a href="#1449463818471-48b4a02b-a87d" data-vc-tabs data-vc-container=".vc_tta"><span class="vc_tta-title-text">Overseas</span></a></li></ul></div><div class="vc_tta-panels-container"><div class="vc_tta-panels"><div class="vc_tta-panel vc_active main-right-tab1" id="1449463818471-48b4a02b-a87b" data-vc-content=".vc_tta-panel-body"><div class="vc_tta-panel-heading"><h4 class="vc_tta-panel-title"><a href="#1449463818471-48b4a02b-a87b" data-vc-accordion data-vc-container=".vc_tta-container"><span class="vc_tta-title-text">Activities</span></a></h4></div><div class="vc_tta-panel-body"><div class="vc_row wpb_row vc_inner wf-container vc_custom_1453267370170"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="wpb_wrapper"><section class="items-grid wf-container"><div class="wf-cell wf-1"><div class="borders"><article class="post-format-standard"><div class="wf-td"><a class="alignleft post-rollover" href="http://zetaplan.com/2022/08/10/kitia-2022-%ec%99%b8%ea%b5%ad%ec%9d%b8%ed%88%ac%ec%9e%90-%ec%b9%b4%eb%9d%bc%eb%b0%98-%ec%88%98%eb%8f%84%ea%b6%8c-%e5%a4%9a1-%eb%9d%bc%ec%9a%b4%eb%93%9c%ed%85%8c%ec%9d%b4%eb%b8%94/" ><img class="preload-me" srcset="http://zetaplan.com/wp-content/uploads/2022/08/2-60x60.png 1x, http://zetaplan.com/wp-content/uploads/2022/08/2-120x120.png 2x" width="60" height="60"  alt="" /></a></div><div class="post-content"><a href="http://zetaplan.com/2022/08/10/kitia-2022-%ec%99%b8%ea%b5%ad%ec%9d%b8%ed%88%ac%ec%9e%90-%ec%b9%b4%eb%9d%bc%eb%b0%98-%ec%88%98%eb%8f%84%ea%b6%8c-%e5%a4%9a1-%eb%9d%bc%ec%9a%b4%eb%93%9c%ed%85%8c%ec%9d%b4%eb%b8%94/">KITIA 2022 외국인투자 카라반 &#8211; 수도권 多:1 라운드테이블</a><br /><time class="text-secondary" datetime="2022-08-10T12:14:18+09:00">2022년 8월 10일</time></div></article></div></div><div class="wf-cell wf-1"><div class="borders"><article class="post-format-standard"><div class="wf-td"><a class="alignleft post-rollover" href="http://zetaplan.com/2022/08/10/kitia-2022-%ec%99%b8%ea%b5%ad%ec%9d%b8%ed%88%ac%ec%9e%90-%ec%b9%b4%eb%9d%bc%eb%b0%98-%ec%88%98%eb%8f%84%ea%b6%8c-11-%ec%8b%ac%ec%b8%b5%eb%a9%b4%eb%8b%b4/" ><img class="preload-me" srcset="http://zetaplan.com/wp-content/uploads/2022/08/1-60x60.png 1x, http://zetaplan.com/wp-content/uploads/2022/08/1-120x120.png 2x" width="60" height="60"  alt="" /></a></div><div class="post-content"><a href="http://zetaplan.com/2022/08/10/kitia-2022-%ec%99%b8%ea%b5%ad%ec%9d%b8%ed%88%ac%ec%9e%90-%ec%b9%b4%eb%9d%bc%eb%b0%98-%ec%88%98%eb%8f%84%ea%b6%8c-11-%ec%8b%ac%ec%b8%b5%eb%a9%b4%eb%8b%b4/">KITIA 2022 외국인투자 카라반 &#8211; 수도권 1:1 심층면담</a><br /><time class="text-secondary" datetime="2022-08-10T12:12:48+09:00">2022년 8월 10일</time></div></article></div></div></section></div></div></div></div></div><div class="vc_tta-panel main-right-tab2" id="1449463818471-48b4a02b-a87c" data-vc-content=".vc_tta-panel-body"><div class="vc_tta-panel-heading"><h4 class="vc_tta-panel-title"><a href="#1449463818471-48b4a02b-a87c" data-vc-accordion data-vc-container=".vc_tta-container"><span class="vc_tta-title-text">Domestic</span></a></h4></div><div class="vc_tta-panel-body"><div class="vc_row wpb_row vc_inner wf-container vc_custom_1453267370170"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="wpb_wrapper"><section class="items-grid wf-container"><div class="wf-cell wf-1"><div class="borders"><article class="post-format-standard"><div class="wf-td"><a class="alignleft post-rollover" href="http://zetaplan.com/2022/07/05/%ea%b2%bd%ea%b8%b0%eb%8f%84%ea%b2%bd%ec%a0%9c%ea%b3%bc%ed%95%99%ec%a7%84%ed%9d%a5%ec%9b%90-%ea%b2%bd%ea%b8%b0%ec%8a%a4%ed%83%80%ed%8a%b8%ec%97%85-ma-ir-%eb%b0%8f-%eb%a7%a4%ec%b9%ad%eb%8d%b0/" ><img class="preload-me" srcset="http://zetaplan.com/wp-content/uploads/2022/07/사진1-60x60.png 1x, http://zetaplan.com/wp-content/uploads/2022/07/사진1-120x120.png 2x" width="60" height="60"  alt="" /></a></div><div class="post-content"><a href="http://zetaplan.com/2022/07/05/%ea%b2%bd%ea%b8%b0%eb%8f%84%ea%b2%bd%ec%a0%9c%ea%b3%bc%ed%95%99%ec%a7%84%ed%9d%a5%ec%9b%90-%ea%b2%bd%ea%b8%b0%ec%8a%a4%ed%83%80%ed%8a%b8%ec%97%85-ma-ir-%eb%b0%8f-%eb%a7%a4%ec%b9%ad%eb%8d%b0/">경기도경제과학진흥원 M&#038;A IR 및 매칭데이 개최</a><br /><time class="text-secondary" datetime="2022-07-05T13:35:56+09:00">2022년 7월 5일</time></div></article></div></div><div class="wf-cell wf-1"><div class="borders"><article class="post-format-standard"><div class="wf-td"><a class="alignleft post-rollover" href="http://zetaplan.com/2022/05/04/2022-kdb-techconnectday/" ><img class="preload-me" srcset="http://zetaplan.com/wp-content/uploads/2022/05/2-60x60.png 1x, http://zetaplan.com/wp-content/uploads/2022/05/2-120x120.png 2x" width="60" height="60"  alt="" /></a></div><div class="post-content"><a href="http://zetaplan.com/2022/05/04/2022-kdb-techconnectday/">2022 KDB TechConnectDay 개최</a><br /><time class="text-secondary" datetime="2022-05-04T10:29:24+09:00">2022년 5월 4일</time></div></article></div></div></section></div></div></div></div></div><div class="vc_tta-panel main-right-tab3" id="1449463818471-48b4a02b-a87d" data-vc-content=".vc_tta-panel-body"><div class="vc_tta-panel-heading"><h4 class="vc_tta-panel-title"><a href="#1449463818471-48b4a02b-a87d" data-vc-accordion data-vc-container=".vc_tta-container"><span class="vc_tta-title-text">Overseas</span></a></h4></div><div class="vc_tta-panel-body"><div class="vc_row wpb_row vc_inner wf-container vc_custom_1453267370170"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="wpb_wrapper"><section class="items-grid wf-container"><div class="wf-cell wf-1"><div class="borders"><article class="post-format-standard"><div class="wf-td"><a class="alignleft post-rollover" href="http://zetaplan.com/2022/08/10/kitia-2022-%ec%99%b8%ea%b5%ad%ec%9d%b8%ed%88%ac%ec%9e%90-%ec%b9%b4%eb%9d%bc%eb%b0%98-%ec%88%98%eb%8f%84%ea%b6%8c-%e5%a4%9a1-%eb%9d%bc%ec%9a%b4%eb%93%9c%ed%85%8c%ec%9d%b4%eb%b8%94/" ><img class="preload-me" srcset="http://zetaplan.com/wp-content/uploads/2022/08/2-60x60.png 1x, http://zetaplan.com/wp-content/uploads/2022/08/2-120x120.png 2x" width="60" height="60"  alt="" /></a></div><div class="post-content"><a href="http://zetaplan.com/2022/08/10/kitia-2022-%ec%99%b8%ea%b5%ad%ec%9d%b8%ed%88%ac%ec%9e%90-%ec%b9%b4%eb%9d%bc%eb%b0%98-%ec%88%98%eb%8f%84%ea%b6%8c-%e5%a4%9a1-%eb%9d%bc%ec%9a%b4%eb%93%9c%ed%85%8c%ec%9d%b4%eb%b8%94/">KITIA 2022 외국인투자 카라반 &#8211; 수도권 多:1 라운드테이블</a><br /><time class="text-secondary" datetime="2022-08-10T12:14:18+09:00">2022년 8월 10일</time></div></article></div></div><div class="wf-cell wf-1"><div class="borders"><article class="post-format-standard"><div class="wf-td"><a class="alignleft post-rollover" href="http://zetaplan.com/2022/08/10/kitia-2022-%ec%99%b8%ea%b5%ad%ec%9d%b8%ed%88%ac%ec%9e%90-%ec%b9%b4%eb%9d%bc%eb%b0%98-%ec%88%98%eb%8f%84%ea%b6%8c-11-%ec%8b%ac%ec%b8%b5%eb%a9%b4%eb%8b%b4/" ><img class="preload-me" srcset="http://zetaplan.com/wp-content/uploads/2022/08/1-60x60.png 1x, http://zetaplan.com/wp-content/uploads/2022/08/1-120x120.png 2x" width="60" height="60"  alt="" /></a></div><div class="post-content"><a href="http://zetaplan.com/2022/08/10/kitia-2022-%ec%99%b8%ea%b5%ad%ec%9d%b8%ed%88%ac%ec%9e%90-%ec%b9%b4%eb%9d%bc%eb%b0%98-%ec%88%98%eb%8f%84%ea%b6%8c-11-%ec%8b%ac%ec%b8%b5%eb%a9%b4%eb%8b%b4/">KITIA 2022 외국인투자 카라반 &#8211; 수도권 1:1 심층면담</a><br /><time class="text-secondary" datetime="2022-08-10T12:12:48+09:00">2022년 8월 10일</time></div></article></div></div></section></div></div></div></div></div></div></div></div></div><div class="vc_tta-container" data-vc-action="collapse"><div class="vc_general vc_tta vc_tta-tabs vc_tta-color-chino vc_tta-style-classic vc_tta-shape-square vc_tta-spacing-3 main-right-tab vc_tta-tabs-position-top vc_tta-controls-align-left main-right-tab"><div class="vc_tta-tabs-container"><ul class="vc_tta-tabs-list"><li class="vc_tta-tab vc_active" data-vc-tab><a href="#1449463818471-48b4a02b-a87a" data-vc-tabs data-vc-container=".vc_tta"><span class="vc_tta-title-text">NEWS</span></a></li><li class="vc_tta-tab" data-vc-tab><a href="#1449463818578-c1b5e98a-4a96" data-vc-tabs data-vc-container=".vc_tta"><span class="vc_tta-title-text">Column</span></a></li><li class="vc_tta-tab" data-vc-tab><a href="#1449463875510-3801870a-d1b4" data-vc-tabs data-vc-container=".vc_tta"><span class="vc_tta-title-text">Education</span></a></li></ul></div><div class="vc_tta-panels-container"><div class="vc_tta-panels"><div class="vc_tta-panel vc_active main-right-tab1" id="1449463818471-48b4a02b-a87a" data-vc-content=".vc_tta-panel-body"><div class="vc_tta-panel-heading"><h4 class="vc_tta-panel-title"><a href="#1449463818471-48b4a02b-a87a" data-vc-accordion data-vc-container=".vc_tta-container"><span class="vc_tta-title-text">NEWS</span></a></h4></div><div class="vc_tta-panel-body"><div class="vc_row wpb_row vc_inner wf-container vc_custom_1453267370170"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="wpb_wrapper"><section class="items-grid wf-container"><div class="wf-cell wf-1"><div class="borders"><article class="post-format-standard"><div class="wf-td"><a href="http://zetaplan.com/2022/11/11/%ec%82%ac%ec%9a%b0%eb%94%94-%ed%88%ac%ec%9e%90%eb%b6%80-%ec%9e%a5%ea%b4%80-%ed%95%9c%ea%b5%ad-%ec%8a%a4%ed%83%80%ed%8a%b8%ec%97%85-%ec%82%ac%ec%9a%b0%eb%94%94%eb%a5%bc-%ed%94%8c%eb%9e%ab%ed%8f%bc/" class="alignleft post-rollover no-avatar"  style="width:60px; height: 60px;"></a></div><div class="post-content"><a href="http://zetaplan.com/2022/11/11/%ec%82%ac%ec%9a%b0%eb%94%94-%ed%88%ac%ec%9e%90%eb%b6%80-%ec%9e%a5%ea%b4%80-%ed%95%9c%ea%b5%ad-%ec%8a%a4%ed%83%80%ed%8a%b8%ec%97%85-%ec%82%ac%ec%9a%b0%eb%94%94%eb%a5%bc-%ed%94%8c%eb%9e%ab%ed%8f%bc/">사우디 투자부 장관 &#8220;한국 스타트업, 사우디를 플랫폼으로 삼아달라&#8221;</a><br /><time class="text-secondary" datetime="2022-11-11T10:17:54+09:00">2022년 11월 11일</time></div></article></div></div><div class="wf-cell wf-1"><div class="borders"><article class="post-format-standard"><div class="wf-td"><a href="http://zetaplan.com/2022/11/11/%ec%a4%91%ea%b8%b0%eb%b6%80-%eb%b0%98%eb%8f%84%ec%b2%b4-%e4%b8%ad%e4%bc%81-%ea%b3%84%ec%95%bd%ed%95%99%ea%b3%bc%c2%b7%ea%b8%b0%ec%88%a0%ec%82%ac%ea%b4%80-5%ea%b3%b3-%ec%8b%a0%ea%b7%9c-%ec%84%a0/" class="alignleft post-rollover no-avatar"  style="width:60px; height: 60px;"></a></div><div class="post-content"><a href="http://zetaplan.com/2022/11/11/%ec%a4%91%ea%b8%b0%eb%b6%80-%eb%b0%98%eb%8f%84%ec%b2%b4-%e4%b8%ad%e4%bc%81-%ea%b3%84%ec%95%bd%ed%95%99%ea%b3%bc%c2%b7%ea%b8%b0%ec%88%a0%ec%82%ac%ea%b4%80-5%ea%b3%b3-%ec%8b%a0%ea%b7%9c-%ec%84%a0/">중기부, 반도체 中企 계약학과·기술사관 5곳 신규 선정</a><br /><time class="text-secondary" datetime="2022-11-11T10:17:03+09:00">2022년 11월 11일</time></div></article></div></div></section></div></div></div></div></div><div class="vc_tta-panel main-right-tab2" id="1449463818578-c1b5e98a-4a96" data-vc-content=".vc_tta-panel-body"><div class="vc_tta-panel-heading"><h4 class="vc_tta-panel-title"><a href="#1449463818578-c1b5e98a-4a96" data-vc-accordion data-vc-container=".vc_tta-container"><span class="vc_tta-title-text">Column</span></a></h4></div><div class="vc_tta-panel-body"><div class="vc_row wpb_row vc_inner wf-container vc_custom_1453267377489"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="wpb_wrapper"><section class="items-grid wf-container"><div class="wf-cell wf-1"><div class="borders"><article class="post-format-standard"><div class="wf-td"><a class="alignleft post-rollover" href="http://zetaplan.com/2021/06/24/2021%eb%85%84-%eb%b2%a4%ec%b2%98%ea%b8%b0%ec%97%85%ed%99%95%ec%9d%b8%ec%a0%9c%eb%8f%84-%eb%b3%80%ea%b2%bd%ec%97%90-%eb%94%b0%eb%a5%b8-%ec%9d%b8%ec%a6%9d%ec%b6%94%ec%a7%84-%ec%a0%84%eb%9e%b5/" ><img class="preload-me" srcset="http://zetaplan.com/wp-content/uploads/2021/06/2021_3호_001-60x60.jpg 1x, http://zetaplan.com/wp-content/uploads/2021/06/2021_3호_001-120x120.jpg 2x" width="60" height="60"  alt="" /></a></div><div class="post-content"><a href="http://zetaplan.com/2021/06/24/2021%eb%85%84-%eb%b2%a4%ec%b2%98%ea%b8%b0%ec%97%85%ed%99%95%ec%9d%b8%ec%a0%9c%eb%8f%84-%eb%b3%80%ea%b2%bd%ec%97%90-%eb%94%b0%eb%a5%b8-%ec%9d%b8%ec%a6%9d%ec%b6%94%ec%a7%84-%ec%a0%84%eb%9e%b5/">2021년 벤처기업확인제도 변경에 따른 인증추진 전략</a><br /><time class="text-secondary" datetime="2021-06-24T16:49:31+09:00">2021년 6월 24일</time></div></article></div></div><div class="wf-cell wf-1"><div class="borders"><article class="post-format-standard"><div class="wf-td"><a class="alignleft post-rollover" href="http://zetaplan.com/2021/02/08/2021%eb%85%84-%ea%b2%bd%ec%a0%9c%ec%84%b1%ec%9e%a5%ea%b3%bc-%ec%a4%91%ec%86%8c%eb%b2%a4%ec%b2%98%ea%b8%b0%ec%97%85-%ec%a7%80%ec%9b%90%ec%a0%95%ec%b1%85-%ed%95%b5%ec%8b%ac-%ec%9d%b4%ec%8a%88-%eb%b6%84/" ><img class="preload-me" srcset="http://zetaplan.com/wp-content/uploads/2021/02/2021_01호_001-60x60.jpg 1x, http://zetaplan.com/wp-content/uploads/2021/02/2021_01호_001-120x120.jpg 2x" width="60" height="60"  alt="" /></a></div><div class="post-content"><a href="http://zetaplan.com/2021/02/08/2021%eb%85%84-%ea%b2%bd%ec%a0%9c%ec%84%b1%ec%9e%a5%ea%b3%bc-%ec%a4%91%ec%86%8c%eb%b2%a4%ec%b2%98%ea%b8%b0%ec%97%85-%ec%a7%80%ec%9b%90%ec%a0%95%ec%b1%85-%ed%95%b5%ec%8b%ac-%ec%9d%b4%ec%8a%88-%eb%b6%84/">2021년 경제성장과 중소벤처기업 지원정책 핵심 이슈 분석</a><br /><time class="text-secondary" datetime="2021-02-08T09:24:28+09:00">2021년 2월 8일</time></div></article></div></div></section></div></div></div></div></div><div class="vc_tta-panel main-right-tab3" id="1449463875510-3801870a-d1b4" data-vc-content=".vc_tta-panel-body"><div class="vc_tta-panel-heading"><h4 class="vc_tta-panel-title"><a href="#1449463875510-3801870a-d1b4" data-vc-accordion data-vc-container=".vc_tta-container"><span class="vc_tta-title-text">Education</span></a></h4></div><div class="vc_tta-panel-body"><div class="vc_row wpb_row vc_inner wf-container vc_custom_1453267384353"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="wpb_wrapper"><section class="items-grid wf-container"><div class="wf-cell wf-1"><div class="borders"><article class="post-format-standard"><div class="wf-td"><a class="alignleft post-rollover" href="http://zetaplan.com/2021/06/24/%ec%84%9c%ec%9a%b8%ec%8b%9c-%eb%85%b9%ec%83%89%ec%82%b0%ec%97%85%ec%a7%80%ec%9b%90%ec%84%bc%ed%84%b0-21%eb%85%84%eb%8f%84-%ec%84%9c%ec%9a%b8%ec%8b%9c-%eb%85%b9%ec%83%89-%ec%a4%91%ec%86%8c%ea%b8%b0/" ><img class="preload-me" srcset="http://zetaplan.com/wp-content/uploads/2021/06/공고문-2021년_1차_서울시_녹색_중소기업_인증_취득_지원교육-3.pdf_page_1-60x60.jpg 1x, http://zetaplan.com/wp-content/uploads/2021/06/공고문-2021년_1차_서울시_녹색_중소기업_인증_취득_지원교육-3.pdf_page_1-120x120.jpg 2x" width="60" height="60"  alt="" /></a></div><div class="post-content"><a href="http://zetaplan.com/2021/06/24/%ec%84%9c%ec%9a%b8%ec%8b%9c-%eb%85%b9%ec%83%89%ec%82%b0%ec%97%85%ec%a7%80%ec%9b%90%ec%84%bc%ed%84%b0-21%eb%85%84%eb%8f%84-%ec%84%9c%ec%9a%b8%ec%8b%9c-%eb%85%b9%ec%83%89-%ec%a4%91%ec%86%8c%ea%b8%b0/">[서울시 녹색산업지원센터] &#8217;21년도 서울시 녹색 중소기업 인증취득 지원사업</a><br /><time class="text-secondary" datetime="2021-06-24T16:29:57+09:00">2021년 6월 24일</time></div></article></div></div><div class="wf-cell wf-1"><div class="borders"><article class="post-format-standard"><div class="wf-td"><a class="alignleft post-rollover" href="http://zetaplan.com/2020/11/18/%eb%b2%a4%ec%b2%98%ea%b8%b0%ec%97%85%ed%98%91%ed%9a%8c-ict-%eb%b2%a4%ec%b2%98-ma-%ec%97%ad%eb%9f%89%ea%b0%95%ed%99%94-%ec%8b%ac%ed%99%94%ea%b5%90%ec%9c%a1/" ><img class="preload-me" srcset="http://zetaplan.com/wp-content/uploads/2020/11/1-3-60x60.jpg 1x, http://zetaplan.com/wp-content/uploads/2020/11/1-3-120x120.jpg 2x" width="60" height="60"  alt="" /></a></div><div class="post-content"><a href="http://zetaplan.com/2020/11/18/%eb%b2%a4%ec%b2%98%ea%b8%b0%ec%97%85%ed%98%91%ed%9a%8c-ict-%eb%b2%a4%ec%b2%98-ma-%ec%97%ad%eb%9f%89%ea%b0%95%ed%99%94-%ec%8b%ac%ed%99%94%ea%b5%90%ec%9c%a1/">[벤처기업협회] ICT 벤처 M&#038;A 역량강화 심화교육</a><br /><time class="text-secondary" datetime="2020-11-18T11:41:06+09:00">2020년 11월 18일</time></div></article></div></div></section></div></div></div></div></div></div></div></div></div>
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<table id="sidebar_icon_link" style="width: 100%; border: 1px solid #E4E4E4; background-color: #ffffff; height: 210px;">
+<tbody>
+<tr>
+<td style="padding: 5px; width: 40px; text-align: right; border-top: #e4e4e4 !important;"><img class="alignnone size-full wp-image-1385" style="width: 20px; height: 20px;" src="/wp-content/uploads/2016/01/1453118801_42.Badge_.png" alt="1452863737_Analytics" align="absmiddle" /></td>
+<td style="font-weight: bold; padding: 5px 5px 5px 0; text-align: left; border-top: #e4e4e4 !important;"><a style="font-size: 15px; color: #999999; padding: 5px;" href="/home/business-partner"> 사업제휴</a></td>
+</tr>
+<tr>
+<td style="padding: 5px; width: 40px; text-align: right;"><img class="alignnone size-full wp-image-1384" style="width: 20px; height: 20px;" src="/wp-content/uploads/2016/01/1453117455_23.Videos.png" alt="1452863753_Checklist" align="absmiddle" /></td>
+<td style="font-weight: bold; padding: 5px 10px 5px 0; text-align: left;"><a style="font-size: 15px; color: #999999; padding: 5px;" href="/home/service-movie"> 서비스동영상</a></td>
+</tr>
+<tr>
+<td style="padding: 5px; width: 40px; text-align: right;"><img class="alignnone size-full wp-image-1388" style="width: 20px; height: 20px;" src="/wp-content/uploads/2016/01/1453118883_14.News_.png" alt="1452864543_Microchip" align="absmiddle" /></td>
+<td style="font-weight: bold; padding: 5px 5px 5px 0; text-align: left;"><a style="font-size: 15px; color: #999999; padding: 5px;" href="/wp-content/uploads/2016/01/제타플랜서비스브로슈어2016.pdf" target="_blank"> 회사브로슈어</a></td>
+</tr>
+<tr>
+<td style="padding: 0px; width: 40px; text-align: center;" colspan="2">
+<table style="width: 100%; border-bottom: none;">
+<tbody>
+<tr>
+<td style="border: none;"><a style="color: #999999; font-weight: bold; font-size: 15px;" href="https://www.youtube.com/channel/UC2BZ-Cd829KVoAYdeiSKUzQ" target="_blank"><img class="alignnone size-full wp-image-1388" style="width: 20px; height: 20px;" src="/wp-content/uploads/2017/07/youtube3.jpg" alt="1452864543_Microchip" align="absmiddle" /> YouTube</a></td>
+<td style="border: none;"><a style="color: #999999; font-weight: bold; font-size: 15px;" href="https://www.facebook.com/Zetaplan-FInvestment-1900302276910629/" target="_blank"><img class="alignnone size-full wp-image-1388" style="width: 20px; height: 20px;" src="/wp-content/uploads/2017/07/facebook.jpg" alt="1452864543_Microchip" align="absmiddle" /> Facebook</a></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+
+		</div>
+	</div>
+<div class="vc_empty_space"  style="height: 20px" ><span class="vc_empty_space_inner"></span></div>
+</div></div></div>
+
+					
+					
+					
+
+				
+			
+			</div><!-- #content -->
+
+			
+				<aside id="sidebar" class="sidebar">
+					<div class="sidebar-content widget-divider-off">
+						<section id="text-3" class="widget widget_text">			<div class="textwidget"><table style="width: 100%; background-color:#ffffff;border:1px solid #e4e4e4; padding: 3px;" border="0">
+	<tr>
+		<td style="width:40px;background-color:#75baff;"><img class="alignnone size-full wp-image-726" src="http://zetaplan.com/wp-content/uploads/2015/12/1451470843_support.png" alt="1451470843_support" style="position:relative;top:4px;height:35px;margin:0px 10px 0px 10px;"/></td>
+		<td style="text-align: center;background-color:#75baff;">
+			<div style="font-size: 18px; font-weight: bold;color:#ffffff;">Zeta Plan 고객상담</div>
+		</td>
+	</tr>
+	<tr>
+		<td colspan="2" style="text-align: center;border-bottom:1px dotted #e4e4e4 !important;padding-top:5px;padding-bottom:0px;">
+			<div style="font-size: 27px; margin-bottom: 2px;margin-top:0px;">02) 538-4801</div>
+			<div style="font-size: 13px;">02)561-6698, 070)8129-5884,5885</div>
+			<div style="font-size: 13px;"><a href="mailto:zetabiz@zetaplan.com" style="text-decoration:none;color:#E35500 !important;">zetabiz@zetaplan.com</a></div>
+		</td>
+	</tr>
+	<tr>
+		<td colspan="2" style="padding: 3px; text-align: center;">
+			<div style="padding: 0px; background-color: #fff;">
+				<table style="width: 100%;" border="0">
+				<tbody>
+				<tr>
+					<td colspan="2" style="padding:0px 5px 0px 5px;"><div style="position:relative;top:5px;"><style type="text/css">#dt-btn-1, #dt-btn-1 > .text-wrap * {color: #888888;}</style><div class="text-centered"><a href="/home/consulting/" class="btn-shortcode dt-btn-m dt-btn btn-light custom-btn-color accent-btn-hover-color default-btn-bg-color default-btn-bg-hover-color full-width-btn" id="dt-btn-1"><span>컨설팅 상담 신청</span></a></div></div></td>
+				</tr>
+				</tbody>
+				</table>
+			</div>
+		</td>
+	</tr>
+</table></div>
+		</section><section id="nav_menu-2" class="widget widget_nav_menu"><div class="menu-%eb%a9%94%ec%9d%b8-%ec%82%ac%ec%9d%b4%eb%93%9c%eb%b0%94-container"><ul id="menu-%eb%a9%94%ec%9d%b8-%ec%82%ac%ec%9d%b4%eb%93%9c%eb%b0%94" class="menu"><li id="menu-item-2633" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2633"><a href="/home/company-intro/greetings/">회사소개</a></li>
+<li id="menu-item-2634" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2634"><a href="/home/work-process/management-consulting/">서비스절차</a></li>
+<li id="menu-item-79" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-79"><a href="http://zetaplan.com/home/venture-investment/">성장기업투자</a></li>
+<li id="menu-item-81" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-81"><a href="http://zetaplan.com/home/consulting-support-project/">컨설팅지원사업</a></li>
+<li id="menu-item-2635" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2635"><a href="/home/corporate-valuation-technique/company-valuation/">기업기술가치평가</a></li>
+<li id="menu-item-3118" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3118"><a href="/home/global-investment-support/global-investment-support-ir/">글로벌투자지원</a></li>
+<li id="menu-item-84" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-84"><a href="http://zetaplan.com/home/how-to-find-us/">오시는 길</a></li>
+</ul></div></section><section id="text-55" class="widget widget_text">			<div class="textwidget">
+<table id="sidebar_icon_link" style="width: 100%; border: 1px solid #E4E4E4; background-color: #ffffff; margin-top: 5px;">
+<tbody>
+<tr>
+<td style="text-align: center; background-color: #a4d2e2;"><img class="alignnone size-full wp-image-1385" style="position: relative; top: 3px; left: 3px; background-color: #fde3ae; border-radius: 5px;" src="/wp-content/uploads/2016/02/main_tech_bg.png" alt="1452863737_Analytics" width="50" align="absmiddle" />
+<span style="color: #ffffff; font-size: 13px; text-shadow: 2px 2px #73C3DF;"><br/>Global<br/>
+Technology<br/>
+Transfer</span></td>
+<td style="font-weight: bold; padding: 5px 10px 5px 5px;">
+<div style="width: 100%; border-bottom: 1px dotted #ddd; padding: 5px 0px 5px 0px;"><a style="font-size: 13px; color: #7e7e7e !important;font-family: '맑은 고딕', 'Malgun Gothic';" href="/technology-deals/technical-trading-overview/"><i class="fa icon-right-open"></i>컨설팅 소개</a></div>
+<div style="width: 100%; border-bottom: 1px dotted #ddd; padding: 5px 0px 5px 0px;"><a style="font-size: 13px; color: #7e7e7e !important;font-family: '맑은 고딕', 'Malgun Gothic';" href="/technology-deals/information-technology-transactions/"><i class="fa icon-right-open"></i>기술거래 리스트</a></div>
+<div style="width: 100%; border-bottom: 1px dotted #ddd; padding: 5px 0px 5px 0px;"><a style="font-size: 13px; color: #7e7e7e !important;font-family: '맑은 고딕', 'Malgun Gothic';" href="/technology-deals/registration-technology-introduced-hope/"><i class="fa icon-right-open"></i>도입희망기술등록</a></div>
+<div style="width: 100%; border-bottom: 1px dotted #ddd; padding: 5px 0px 5px 0px;"><a style="font-size: 13px; color: #7e7e7e !important;font-family: '맑은 고딕', 'Malgun Gothic';" href="/technology-deals/previous-hope-technology/"><i class="fa icon-right-open"></i>이전희망기술등록</a></div>
+<div style="padding: 5px 0px 5px 0px;"><a style="font-size: 13px; color: #7e7e7e !important;font-family: '맑은 고딕', 'Malgun Gothic';" href="/technology-deals/technical-trading-consulting/"><i class="fa icon-right-open"></i>기술거래 상담신청</a></div></td>
+</tr>
+</tbody>
+</table>
+
+<table id="sidebar_icon_link" style="width: 100%; border: 1px solid #E4E4E4 !important; background-color: #ffffff;margin-top:10px;">
+<tbody>
+<tr>
+<td style="width: 50% !important; text-align: center; border-top: #e4e4e4 !important; border-bottom: none !important; padding-top: 5px; border-right: 1px dotted #e4e4e4 !important;border-bottom: 1px solid #e4e4e4 !important;"><a href="http://aff.g2brating.co.kr/affiliate/affs_index.do?param=zeta" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-1385" style="margin-bottom:5px;height: 30px;" src="/wp-content/uploads/2016/01/nicednb.png" alt="나이스디앤비" title="나이스디앤비" align="absmiddle" />&nbsp;<span style="font-size:10px;">나이스디앤비</span></a></td>
+<td style="width: 50% !important; text-align: center; border-top: #e4e4e4 !important; border-bottom: none !important; padding-top: 5px;border-bottom: 1px solid #e4e4e4 !important;"><a href="http://www.innobiz.or.kr/" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-1385" style="height: 20px;margin-bottom:5px;" src="/wp-content/uploads/2016/01/innobiz.png" alt="이노비즈협회" title="이노비즈협회" align="absmiddle" /><span style="font-size:10px;">이노비즈</span></a></td>
+</tr>
+<tr>
+<td style="width: 50% !important; text-align: center; border-top: #e4e4e4 !important; border-bottom: none !important; padding-top: 5px; border-right: 1px dotted #e4e4e4 !important;"><a href="http://www.cieci.com.cn/" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-1385" style="margin-bottom:5px;height: 30px;" src="/wp-content/uploads/2016/01/CIECI.jpg" alt="CHINA INTERNATIONAL ECONOMIC COOPERATION AND INVESTMENT INC." title="CHINA INTERNATIONAL ECONOMIC COOPERATION AND INVESTMENT INC." align="absmiddle" />&nbsp;China CIECI</a></td>
+<td style="width: 50% !important; text-align: center; border-top: #e4e4e4 !important; border-bottom: none !important; padding-top: 5px;"><a href="http://ipcn.vn/index.php" target="_blank" rel="noopener noreferrer"><img class="alignnone size-full wp-image-1385" style="margin-bottom:5px;height: 30px;" src="/wp-content/uploads/2016/01/IPCN.jpg" alt="INVESTMENT PROMOTION CENTER FOR NORTH VIETNAM" title="INVESTMENT PROMOTION CENTER FOR NORTH VIETNAM" align="absmiddle" /><span style="font-size:11px;"> Vietnam  IPCN</span></a></td>
+</tr>
+</tbody>
+</table>
+
+<table id="sidebar_icon_link" style="width:100%;border: 1px solid #E4E4E4;background-color:#ffffff;margin-top:10px;margin-bottom:20px;">
+<tbody>
+<tr>
+<td style="font-weight: bold;padding:10px 0 0 10px;text-align:left;"><a href="/technology-finance/technology-financial-overview/" style="font-size:14px;font-family: '맑은 고딕', 'Malgun Gothic';"><img class="alignnone size-full wp-image-1385" src="http://zetaplan.com/wp-content/uploads/2016/01/1452863737_Analytics.png" alt="1452863737_Analytics" width="32" height="32" align="absmiddle" style="position:relative;top:3px;"/> 기술금융</a></td>
+<td style="font-weight: bold;padding:10px 0 0 0;text-align:center;"><a href="/utility-patents/patent/" style="font-size:14px;font-family: '맑은 고딕', 'Malgun Gothic';"><img class="alignnone size-full wp-image-1386" src="http://zetaplan.com/wp-content/uploads/2016/01/1452864314_Mind-Map-Paper.png" alt="1452864314_Mind-Map-Paper" width="32" height="32" align="absmiddle" style="position:relative;top:3px;"/> 특허실용</a></td>
+</tr>
+<tr>
+<td style="font-weight: bold;padding:5px 0 5px 10px;text-align:left;"><a href="http://zetaplan.com/credit-rating/services-overview/" style="font-size:14px;font-family: '맑은 고딕', 'Malgun Gothic';"><img class="alignnone size-full wp-image-1388" src="http://zetaplan.com/wp-content/uploads/2016/01/1452863753_Checklist.png" alt="1452864543_Microchip" width="32" height="32" align="absmiddle" style="position:relative;"/> 신용평가</a></td>
+<td style="font-weight: bold;padding:5px 0 5px 0;text-align:center;"><a href="/strategic-consulting/internal-audit/" style="font-size:14px;font-family: '맑은 고딕', 'Malgun Gothic';"><img class="alignnone size-full wp-image-1382" src="http://zetaplan.com/wp-content/uploads/2016/01/1452863783_Money-Increase.png" alt="1452864030_Street-View" width="32" height="32" align="absmiddle" style="position:relative;top:3px;"/> 경영진단</a></td>
+</tr>
+</tbody>
+</table></div>
+		</section>					</div>
+				</aside><!-- #sidebar -->
+
+
+		
+
+			</div><!-- .wf-container -->
+		</div><!-- .wf-wrap -->
+	</div><!-- #main -->
+
+	<div id='bottom_partner_warp' style='position:relative;left:-1px;margin-top:0px !important;max-width: 1205px;margin: 0 auto;text-align:left !important;'><span style='border:1px solid #dddddd;padding:3px 10px 3px 10px;border-radius:5px 5px 0px 0px;font-weight:normal;background-color:#ffffff;'> 협력기관 </span></div><div id='bottom_partner_content' style='margin-top:0px !important;margin-bottom:10px !important;border:1px solid #dddddd;border-radius:0px 0px 0px 0px;max-width: 1205px;margin: 0 auto;background-color:#ffffff;'> 
+ <ul class="wplss-logo-showcase-1 logo_showcase showcase_ nocenter"> 
+			
+			<li> 
+						<a href="http://ipavietnam.org"  target="_blank" >
+				<img width="79" height="45" src="http://zetaplan.com/wp-content/uploads/2019/02/캡처61.png" class="attachment-url size-url wp-post-image" alt="" />				</a>
+						</li>				
+					
+			<li> 
+						<a href="http://www.hanoi-sme.vn/"  target="_blank" >
+				<img width="61" height="49" src="http://zetaplan.com/wp-content/uploads/2019/02/캡처60.png" class="attachment-url size-url wp-post-image" alt="" />				</a>
+						</li>				
+					
+			<li> 
+						<a href="https://gdmc.jp/"  target="_blank" >
+				<img width="202" height="43" src="http://zetaplan.com/wp-content/uploads/2019/02/캡처59.png" class="attachment-url size-url wp-post-image" alt="" />				</a>
+						</li>				
+					
+			<li> 
+						<a href="https://www.seoul.go.kr/main/index.jsp"  target="_blank" >
+				<img width="106" height="36" src="http://zetaplan.com/wp-content/uploads/2019/02/캡처58.png" class="attachment-url size-url wp-post-image" alt="" />				</a>
+						</li>				
+					
+			<li> 
+						<a href="http://www.bbef.com/"  target="_blank" >
+				<img width="101" height="48" src="http://zetaplan.com/wp-content/uploads/2019/02/캡처57.png" class="attachment-url size-url wp-post-image" alt="" />				</a>
+						</li>				
+					
+			<li> 
+						<a href="http://www.761cspace.com"  target="_blank" >
+				<img width="149" height="43" src="http://zetaplan.com/wp-content/uploads/2019/02/캡처56.png" class="attachment-url size-url wp-post-image" alt="" />				</a>
+						</li>				
+					
+			<li> 
+						<a href="http://www.cbf.or.kr/"  target="_blank" >
+				<img width="165" height="39" src="http://zetaplan.com/wp-content/uploads/2019/02/캡처55.png" class="attachment-url size-url wp-post-image" alt="" />				</a>
+						</li>				
+					
+			<li> 
+						<a href="https://www.gg.go.kr/"  target="_blank" >
+				<img width="139" height="48" src="http://zetaplan.com/wp-content/uploads/2019/02/캡처54.png" class="attachment-url size-url wp-post-image" alt="" />				</a>
+						</li>				
+					
+			<li> 
+						<a href="http://hi-seoulbrand.com/"  target="_blank" >
+				<img width="213" height="28" src="http://zetaplan.com/wp-content/uploads/2017/02/캡처51-e1487208276583.png" class="attachment-url size-url wp-post-image" alt="" />				</a>
+						</li>				
+					
+			<li> 
+						<a href="http://www.seoulir.co.kr/"  target="_blank" >
+				<img width="116" height="28" src="http://zetaplan.com/wp-content/uploads/2017/02/캡처50-e1487208239645.png" class="attachment-url size-url wp-post-image" alt="" />				</a>
+						</li>				
+					
+			<li> 
+						<a href="https://www.ibitp.or.kr/"  target="_blank" >
+				<img width="128" height="28" src="http://zetaplan.com/wp-content/uploads/2017/02/캡처49-e1487208202765.png" class="attachment-url size-url wp-post-image" alt="" />				</a>
+						</li>				
+					
+			<li> 
+						<a href="http://gdtp.or.kr/index.php"  target="_blank" >
+				<img width="129" height="28" src="http://zetaplan.com/wp-content/uploads/2017/02/캡처48-e1487208024916.png" class="attachment-url size-url wp-post-image" alt="" />				</a>
+						</li>				
+					
+			<li> 
+						<a href="https://www.gtp.or.kr/"  target="_blank" >
+				<img width="97" height="38" src="http://zetaplan.com/wp-content/uploads/2017/02/캡처47-e1487207930990.png" class="attachment-url size-url wp-post-image" alt="" />				</a>
+						</li>				
+					
+			<li> 
+						<a href="https://www.gist.ac.kr/index_in.php"  target="_blank" >
+				<img width="143" height="38" src="http://zetaplan.com/wp-content/uploads/2017/01/캡처46-1.png" class="attachment-url size-url wp-post-image" alt="" />				</a>
+						</li>				
+					
+			<li> 
+						<a href="http://www.imckorea.or.kr/main/main.php"  target="_blank" >
+				<img width="173" height="30" src="http://zetaplan.com/wp-content/uploads/2016/06/45-e1464917897192.png" class="attachment-url size-url wp-post-image" alt="" />				</a>
+						</li>				
+					
+			<li> 
+						<a href="http://www.fitn.or.kr/main.asp"  target="_blank" >
+				<img width="153" height="30" src="http://zetaplan.com/wp-content/uploads/2016/06/44-e1464917835690.png" class="attachment-url size-url wp-post-image" alt="" />				</a>
+						</li>				
+					
+			<li> 
+						<a href="http://www.kmtca.or.kr/"  target="_blank" >
+				<img width="175" height="30" src="http://zetaplan.com/wp-content/uploads/2016/06/43-e1464917754433.png" class="attachment-url size-url wp-post-image" alt="" />				</a>
+						</li>				
+					
+			<li> 
+						<a href="http://www.kdia.or.kr/main/main.do"  target="_blank" >
+				<img width="129" height="35" src="http://zetaplan.com/wp-content/uploads/2016/04/캡처42-1-e1461744716930.png" class="attachment-url size-url wp-post-image" alt="" />				</a>
+						</li>				
+					
+			<li> 
+						<a href="http://home.sbc.or.kr/sbc/index.jsp"  target="_blank" >
+				<img width="228" height="25" src="http://zetaplan.com/wp-content/uploads/2016/04/캡처62.png" class="attachment-url size-url wp-post-image" alt="" />				</a>
+						</li>				
+					
+			<li> 
+						<a href="http://www.kashi.or.kr/html/index.html"  target="_blank" >
+				<img width="148" height="25" src="http://zetaplan.com/wp-content/uploads/2016/04/캡처40-e1461744436954.png" class="attachment-url size-url wp-post-image" alt="" />				</a>
+						</li>				
+					
+			<li> 
+						<a href="http://www.keia.kr/"  target="_blank" >
+				<img width="116" height="25" src="http://zetaplan.com/wp-content/uploads/2016/04/캡처39-e1461744338180.png" class="attachment-url size-url wp-post-image" alt="" />				</a>
+						</li>				
+					
+			<li> 
+						<a href="http://www.exportcenter.go.kr/main.jsp"  target="_blank" >
+				<img width="126" height="30" src="http://zetaplan.com/wp-content/uploads/2016/04/캡처38-e1461744205881.png" class="attachment-url size-url wp-post-image" alt="" />				</a>
+						</li>				
+					
+			<li> 
+						<a href="http://www.seoultp.or.kr/"  target="_blank" >
+				<img width="127" height="28" src="http://zetaplan.com/wp-content/uploads/2016/04/캡처37-e1461744145741.png" class="attachment-url size-url wp-post-image" alt="" />				</a>
+						</li>				
+					
+			<li> 
+						<a href="http://www.gbtp.or.kr/index.php"  target="_blank" >
+				<img width="142" height="28" src="http://zetaplan.com/wp-content/uploads/2016/04/캡처36-e1461744069355.png" class="attachment-url size-url wp-post-image" alt="" />				</a>
+						</li>				
+					
+			<li> 
+						<a href="http://www.jbtp.or.kr/"  target="_blank" >
+				<img width="122" height="36" src="http://zetaplan.com/wp-content/uploads/2016/04/캡처35.png" class="attachment-url size-url wp-post-image" alt="" />				</a>
+						</li>				
+					
+			<li> 
+						<a href="http://www.kvca.or.kr/main/main.jsp"  target="_blank" >
+				<img width="110" height="33" src="http://zetaplan.com/wp-content/uploads/2016/04/캡처34-e1461743906234.png" class="attachment-url size-url wp-post-image" alt="" />				</a>
+						</li>				
+					
+			<li> 
+						<a href="http://www.kodit.co.kr/index.jsp"  target="_blank" >
+				<img width="98" height="38" src="http://zetaplan.com/wp-content/uploads/2016/04/캡처33-e1461743774558.png" class="attachment-url size-url wp-post-image" alt="" />				</a>
+						</li>				
+					
+			<li> 
+						<a href="https://www.ntb.kr/main/mainPortal.do"  target="_blank" >
+				<img width="102" height="25" src="http://zetaplan.com/wp-content/uploads/2016/04/logn_gate33-e1461743549980.png" class="attachment-url size-url wp-post-image" alt="" />				</a>
+						</li>				
+					
+			<li> 
+						<a href="http://www.kaips.or.kr/front.do?method=main"  target="_blank" >
+				<img width="89" height="23" src="http://zetaplan.com/wp-content/uploads/2016/03/캡처30-e1457074359156.png" class="attachment-url size-url wp-post-image" alt="" />				</a>
+						</li>				
+					
+			<li> 
+						<a href="http://www.mt.co.kr/"  target="_blank" >
+				<img width="138" height="29" src="http://zetaplan.com/wp-content/uploads/2016/03/캡처29-e1457074065417.png" class="attachment-url size-url wp-post-image" alt="" />				</a>
+						</li>				
+					
+			<li> 
+						<a href="http://www.seoultp.or.kr/"  target="_blank" >
+				<img width="116" height="20" src="http://zetaplan.com/wp-content/uploads/2016/03/캡처28-e1457074484677.png" class="attachment-url size-url wp-post-image" alt="" />				</a>
+						</li>				
+					
+			<li> 
+						<a href="http://www.sida.kr/"  target="_blank" >
+				<img width="75" height="36" src="http://zetaplan.com/wp-content/uploads/2016/03/캡처27-e1457073887670.png" class="attachment-url size-url wp-post-image" alt="" />				</a>
+						</li>				
+					
+			<li> 
+						<a href="https://www.etri.re.kr/kor/main/main.etri"  target="_blank" >
+				<img width="146" height="20" src="http://zetaplan.com/wp-content/uploads/2016/03/캡처26-e1457074426893.png" class="attachment-url size-url wp-post-image" alt="" />				</a>
+						</li>				
+					
+			<li> 
+						<a href="http://www.nicednb.com/"  target="_blank" >
+				<img width="153" height="27" src="http://zetaplan.com/wp-content/uploads/2016/03/캡처25-e1457073650547.png" class="attachment-url size-url wp-post-image" alt="" />				</a>
+						</li>				
+					
+			<li> 
+						<a href="http://www.nicecredit.com/main.nice"  target="_blank" >
+				<img width="106" height="28" src="http://zetaplan.com/wp-content/uploads/2016/03/캡처24-e1457073579809.png" class="attachment-url size-url wp-post-image" alt="" />				</a>
+						</li>				
+					
+			<li> 
+						<a href="http://biz.mk.co.kr/"  target="_blank" >
+				<img width="94" height="22" src="http://zetaplan.com/wp-content/uploads/2016/03/캡처23-e1457073478762.png" class="attachment-url size-url wp-post-image" alt="" />				</a>
+						</li>				
+					
+			<li> 
+						<a href="http://www.jntp.or.kr/home/main.do"  target="_blank" >
+				<img width="101" height="25" src="http://zetaplan.com/wp-content/uploads/2016/03/캡처22-e1457073384753.png" class="attachment-url size-url wp-post-image" alt="" />				</a>
+						</li>				
+					
+			<li> 
+						<a href="https://www.keri.re.kr/html/kr/index.html"  target="_blank" >
+				<img width="56" height="21" src="http://zetaplan.com/wp-content/uploads/2016/03/캡처21-e1457073298846.png" class="attachment-url size-url wp-post-image" alt="" />				</a>
+						</li>				
+					
+			<li> 
+						<a href="http://www.jbth.co.kr/new/inner.php?sMenu=main&pre_url=httpswww.google.co.kr"  target="_blank" >
+				<img width="68" height="30" src="http://zetaplan.com/wp-content/uploads/2016/02/캡처19-e1456390248503.png" class="attachment-url size-url wp-post-image" alt="" />				</a>
+						</li>				
+					
+			<li> 
+						<a href="http://www.apfs.kr/apfs_web/main/main.do"  target="_blank" >
+				<img width="127" height="30" src="http://zetaplan.com/wp-content/uploads/2016/02/캡처18-e1456390185222.png" class="attachment-url size-url wp-post-image" alt="" />				</a>
+						</li>				
+					
+			<li> 
+						<a href="http://www.snventure.net/vnet/fe/snv/main/ER_index.do"  target="_blank" >
+				<img width="113" height="35" src="http://zetaplan.com/wp-content/uploads/2016/02/캡처17-e1456390061817.png" class="attachment-url size-url wp-post-image" alt="" />				</a>
+						</li>				
+					
+			<li> 
+						<a href="https://www.btp.or.kr/"  target="_blank" >
+				<img width="114" height="35" src="http://zetaplan.com/wp-content/uploads/2016/02/캡처16-e1456389977538.png" class="attachment-url size-url wp-post-image" alt="" />				</a>
+						</li>				
+					
+			<li> 
+						<a href="http://www.fact.or.kr/action.do?action=main"  target="_blank" >
+				<img width="159" height="30" src="http://zetaplan.com/wp-content/uploads/2016/02/캡처15-e1456389890725.png" class="attachment-url size-url wp-post-image" alt="" />				</a>
+						</li>				
+					
+			<li> 
+						<a href="https://www.kdb.co.kr/ih/simpleJsp.do"  target="_blank" >
+				<img width="107" height="21" src="http://zetaplan.com/wp-content/uploads/2016/02/캡처14-1-e1456390461570.png" class="attachment-url size-url wp-post-image" alt="" />				</a>
+						</li>				
+					
+			<li> 
+						<a href="http://www.gsbc.or.kr/"  target="_blank" >
+				<img width="97" height="30" src="http://zetaplan.com/wp-content/uploads/2016/02/캡처13-e1456389418184.png" class="attachment-url size-url wp-post-image" alt="" />				</a>
+						</li>				
+					
+			<li> 
+						<a href="http://www.copyright.or.kr/main.do"  target="_blank" >
+				<img width="125" height="30" src="http://zetaplan.com/wp-content/uploads/2016/02/캡처12-e1456389323722.png" class="attachment-url size-url wp-post-image" alt="" />				</a>
+						</li>				
+					
+			<li> 
+						<a href="http://www.innobiz.or.kr/MA/introgate.asp"  target="_blank" >
+				<img width="73" height="30" src="http://zetaplan.com/wp-content/uploads/2016/02/캡처11-e1456389222716.png" class="attachment-url size-url wp-post-image" alt="" />				</a>
+						</li>				
+					
+			<li> 
+						<a href="http://www.gtp.or.kr/"  target="_blank" >
+				<img width="139" height="35" src="http://zetaplan.com/wp-content/uploads/2016/02/캡처10-1-e1456274557204.png" class="attachment-url size-url wp-post-image" alt="" />				</a>
+						</li>				
+					
+			<li> 
+						<a href="http://www.keiti.re.kr/home/index.do"  target="_blank" >
+				<img width="68" height="30" src="http://zetaplan.com/wp-content/uploads/2016/02/캡처9-1-e1456274463782.png" class="attachment-url size-url wp-post-image" alt="" />				</a>
+						</li>				
+					
+			<li> 
+						<a href="http://atcenter.at.or.kr/"  target="_blank" >
+				<img width="68" height="20" src="http://zetaplan.com/wp-content/uploads/2016/02/h1_logo_desk-e1456274219761.png" class="attachment-url size-url wp-post-image" alt="" />				</a>
+						</li>				
+					
+			<li> 
+						<a href="http://www.sba.seoul.kr/"  target="_blank" >
+				<img width="53" height="30" src="http://zetaplan.com/wp-content/uploads/2016/02/캡처8-1-e1456273954766.png" class="attachment-url size-url wp-post-image" alt="" />				</a>
+						</li>				
+					
+			<li> 
+						<a href="http://www.mna.go.kr/front/main/frontMain.do"  target="_blank" >
+				<img width="114" height="27" src="http://zetaplan.com/wp-content/uploads/2016/02/캡처7-1.png" class="attachment-url size-url wp-post-image" alt="" />				</a>
+						</li>				
+					
+			<li> 
+						<a href="https://www.koita.or.kr"  target="_blank" >
+				<img width="129" height="35" src="http://zetaplan.com/wp-content/uploads/2016/02/캡처5-1-e1456274032512.png" class="attachment-url size-url wp-post-image" alt="" />				</a>
+						</li>				
+					
+			<li> 
+						<a href="http://www.smba.go.kr/kr/index.do;jsessionid=d-GyjfZM0mfzzwbY0XXj9X95.node01"  target="_blank" >
+				<img width="139" height="41" src="http://zetaplan.com/wp-content/uploads/2016/02/캡처53.png" class="attachment-url size-url wp-post-image" alt="" />				</a>
+						</li>				
+					
+			<li> 
+						<a href="http://www.kipa.org/kipa/index.jsp"  target="_blank" >
+				<img width="120" height="31" src="http://zetaplan.com/wp-content/uploads/2016/02/캡처2-1-e1455683861710.png" class="attachment-url size-url wp-post-image" alt="" />				</a>
+						</li>				
+					
+			<li> 
+						<a href="http://www.kita.net/"  target="_blank" >
+				<img width="117" height="40" src="http://zetaplan.com/wp-content/uploads/2016/02/캡처-2-e1455684705532.png" class="attachment-url size-url wp-post-image" alt="" />				</a>
+						</li>				
+					
+			<li> 
+						<a href="http://www.g2b.go.kr/index.jsp"  target="_blank" >
+				<img width="120" height="42" src="http://zetaplan.com/wp-content/uploads/2015/12/2009138771_wehzkuBE_B3AAB6F3C0E5C5CD.jpg" class="attachment-url size-url wp-post-image" alt="" />				</a>
+						</li>				
+					
+			<li> 
+						<a href="http://www.kefplaza.com/index.jsp"  target="_blank" >
+				<img width="120" height="42" src="http://zetaplan.com/wp-content/uploads/2015/12/1896489815_1NtS6Fhi_C7D1B1B9B0E6BFB5C0DAC3D1C7F9C8B8.jpg" class="attachment-url size-url wp-post-image" alt="" />				</a>
+						</li>				
+					
+			<li> 
+						<a href="http://www.kiat.or.kr/"  target="_blank" >
+				<img width="194" height="43" src="http://zetaplan.com/wp-content/uploads/2015/12/캡처4.png" class="attachment-url size-url wp-post-image" alt="" />				</a>
+						</li>				
+					
+			<li> 
+						<a href="http://www.tipa.or.kr/"  target="_blank" >
+				<img width="120" height="42" src="http://zetaplan.com/wp-content/uploads/2015/12/2009138771_3oJszivS_C1DFBCD2B1E2BEF7B1E2BCFAC1A4BAB8C1F8C8EFBFF8.jpg" class="attachment-url size-url wp-post-image" alt="" />				</a>
+						</li>				
+					
+			<li> 
+						<a href="http://www.exportcenter.go.kr/main.jsp"  target="_blank" >
+				<img width="120" height="42" src="http://zetaplan.com/wp-content/uploads/2015/12/2009138771_dZKAiLcw_C1DFBCD2B1E2BEF7BCF6C3E2C1F6BFF8BCBEC5CD.jpg" class="attachment-url size-url wp-post-image" alt="" />				</a>
+						</li>				
+					
+			<li> 
+						<a href="http://www.venture.or.kr/"  target="_blank" >
+				<img width="120" height="42" src="http://zetaplan.com/wp-content/uploads/2015/12/2009138771_BHef1Jua_BAA5C3B3B1E2BEF7C7F9C8B8.jpg" class="attachment-url size-url wp-post-image" alt="" />				</a>
+						</li>				
+					
+			<li> 
+						<a href="http://www.gtck.re.kr/"  target="_blank" >
+				<img width="328" height="43" src="http://zetaplan.com/wp-content/uploads/2015/12/캡처6.png" class="attachment-url size-url wp-post-image" alt="" srcset="http://zetaplan.com/wp-content/uploads/2015/12/캡처6.png 328w, http://zetaplan.com/wp-content/uploads/2015/12/캡처6-300x39.png 300w" sizes="(max-width: 328px) 100vw, 328px" />				</a>
+						</li>				
+			</ul>
+
+	
+	<script>		
+        jQuery(document).ready(function(){
+             jQuery('.wplss-logo-showcase-1').slick({
+             	 	centerMode: false,         
+  					dots: false,
+					arrows: false,
+  					infinite: true,
+  					speed: 1500,
+  					slidesToShow: 6,
+  					slidesToScroll: 1,
+					autoplay: true,
+					autoplaySpeed: 300,
+  		responsive: [
+    		{
+    		  breakpoint: 1024,
+    			  settings: {
+     		      slidesToShow: 3,
+        		  slidesToScroll: 2,
+        		  infinite: true,
+                  dots: true
+                }
+    },
+    {
+      breakpoint: 640,
+      settings: {
+        slidesToShow: 2,
+        slidesToScroll: 2
+      }
+    },
+    {
+      breakpoint: 480,
+      settings: {
+        slidesToShow: 1,
+        slidesToScroll: 1
+      }
+    }
+     ]
+});
+
+  });
+    </script>
+    
+</div>
+	<!-- !Footer -->
+	<footer id="footer" class="footer solid-bg footer-outline-decoration">
+
+		<!-- !Bottom-bar -->
+<div id="bottom-bar" class="solid-bg" role="contentinfo">
+	<div class="wf-wrap">
+		<div class="wf-container-bottom">
+			<div class="wf-table wf-mobile-collapsed">
+				<div id="branding-bottom" class="wf-td"><a href="http://zetaplan.com/"><img class=" preload-me" srcset="http://zetaplan.com/wp-content/uploads/2017/03/제타플랜로고6.png 1x, http://zetaplan.com/wp-content/uploads/2017/03/제타플랜로고7.png 2x" width="180" height="46"  alt="Zeta Plan Investment 에 오신걸 환영합니다" /></a></div>
+					<div class="wf-td">
+						<div class="wf-float-left">
+
+							<div style="width:100%;text-align:left;font-size:13px;padding:10px">
+Zeta Plan Investment Co., Ltd. Copyright 2006~2020<br />
+정보관리책임자 박민경 | 사업자등록번호 120-87-36351<br />
+중소기업상담회사 제2010-397호 | 기술거래기관 제2016-48호 | 사업화전문회사 제2017-96호 | 엑셀러레이터 제2018-60호<br />
+서울본사 (08505) 서울 금천구 가산디지털2로 101, 한라원앤원타워 601호 | Tel 02-538-4801 | Fax 02-6008-4779 | E-mail zetabiz@zetaplan.com<br />
+China Office  6F, Beiguang Building, No.23, Huangsi Street, Xicheng District, Beijing, China <br />
+Vietnam Office No 241, Tang Thiet Giap Apt, 110 Hoang Quoc Viet Street, Cau Giay District, Hanoi, VietNam<br />
+Ini Office 2 Jl Jenderal Gatot Subroto Kav.58, Kuningan Timur setiabudi Jakarta Selatan, Indonesia<br />
+호남본부 (61947) 광주광역시 서구 상무중앙로 114, 1307호 | Tel 062-233-4142<br />
+</div>
+						</div>
+					</div>
+
+				
+				<div class="wf-td">
+
+					
+				</div>
+
+				
+			</div>
+		</div><!-- .wf-container-bottom -->
+	</div><!-- .wf-wrap -->
+</div><!-- #bottom-bar -->
+	</footer><!-- #footer -->
+
+
+
+	<a href="#" class="scroll-top"></a>
+
+</div><!-- #page -->
+<!-- Mirae Script Ver 2.0 -->
+<script async="true" src="//log1.toup.net/mirae_log_chat_common.js?adkey=rkren"
+charset="UTF-8"></script>
+<!-- Mirae Script END Ver 2.0 -->
+
+<!-- 공통 적용 스크립트 , 모든 페이지에 노출되도록 설치. 단 전환페이지 설정값보다 항상 하단에 위치해야함 --> 
+<script type="text/javascript" src="//wcs.naver.net/wcslog.js"> </script> 
+<script type="text/javascript"> 
+if (!wcs_add) var wcs_add={};
+wcs_add["wa"] = "s_13400dbf0548";
+if (!_nasa) var _nasa={};
+if(window.wcs){
+wcs.inflow();
+wcs_do(_nasa);
+}
+</script><script>var kbaord_media_group='637de185bbfd8';</script>
+<script>var kbaord_plugin_url='http://zetaplan.com/wp-content/plugins/kboard';</script>
+<script>var kbaord_board_id='1';</script>
+<script>var kbaord_content_uid='';</script>
+<script>var kbaord_media_group='637de185bc031';</script>
+<script>var kbaord_plugin_url='http://zetaplan.com/wp-content/plugins/kboard';</script>
+<script>var kbaord_board_id='8';</script>
+<script>var kbaord_content_uid='0';</script>
+<script>var kbaord_media_group='637de185bc087';</script>
+<script>var kbaord_plugin_url='http://zetaplan.com/wp-content/plugins/kboard';</script>
+<script>var kbaord_board_id='4';</script>
+<script>var kbaord_content_uid='0';</script>
+<script>var kbaord_media_group='637de185bc0e8';</script>
+<script>var kbaord_plugin_url='http://zetaplan.com/wp-content/plugins/kboard';</script>
+<script>var kbaord_board_id='5';</script>
+<script>var kbaord_content_uid='0';</script>
+<script>var kbaord_media_group='637de185bc134';</script>
+<script>var kbaord_plugin_url='http://zetaplan.com/wp-content/plugins/kboard';</script>
+<script>var kbaord_board_id='6';</script>
+<script>var kbaord_content_uid='0';</script>
+<script>var kbaord_media_group='637de185bc194';</script>
+<script>var kbaord_plugin_url='http://zetaplan.com/wp-content/plugins/kboard';</script>
+<script>var kbaord_board_id='7';</script>
+<script>var kbaord_content_uid='0';</script>
+<script type='text/javascript' src='http://zetaplan.com/wp-includes/js/jquery/ui/core.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://zetaplan.com/wp-includes/js/jquery/ui/widget.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://zetaplan.com/wp-includes/js/jquery/ui/mouse.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://zetaplan.com/wp-includes/js/jquery/ui/resizable.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://zetaplan.com/wp-includes/js/jquery/ui/draggable.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://zetaplan.com/wp-includes/js/jquery/ui/button.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://zetaplan.com/wp-includes/js/jquery/ui/position.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://zetaplan.com/wp-includes/js/jquery/ui/dialog.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://zetaplan.com/wp-includes/js/wpdialog.min.js?ver=5.2.17'></script>
+<script type='text/javascript' src='http://zetaplan.com/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js?ver=3.51.0-2014.06.20'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var _wpcf7 = {"recaptcha":{"messages":{"empty":"\ub85c\ubd07\uc774 \uc544\ub2d8\uc744 \uc99d\uba85\ud558\uc138\uc694."}}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://zetaplan.com/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=4.7'></script>
+<script type='text/javascript' src='http://zetaplan.com/wp-content/plugins/jt-bad-ux-popup.1.0.14/js/jquery.cookie.js?ver=1.4.0'></script>
+<script type='text/javascript' src='http://zetaplan.com/wp-content/plugins/jt-bad-ux-popup.1.0.14/js/jquery.touchSwipe.min.js?ver=1.6'></script>
+<script type='text/javascript' src='http://zetaplan.com/wp-content/plugins/jt-bad-ux-popup.1.0.14/js/imagesloaded.pkgd.min.js?ver=3.1.8'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var __JTPOP = {"home_url":"http:\/\/zetaplan.com","blog_id":"1","language":"ko_KR","is_home":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://zetaplan.com/wp-content/plugins/jt-bad-ux-popup.1.0.14/js/jt-popup-show.js?ver=1.1.8'></script>
+<script type='text/javascript' src='http://zetaplan.com/wp-content/plugins/jt-bad-ux-popup.1.0.14/js/vendors/slider/slick/slick.min.js?ver=1.6.0'></script>
+<script type='text/javascript' src='http://zetaplan.com/wp-content/themes/dt-the7/js/main.min.js?ver=3.0.1'></script>
+<script type='text/javascript' src='http://zetaplan.com/wp-includes/js/wp-embed.min.js?ver=5.2.17'></script>
+<script type='text/javascript' src='http://zetaplan.com/wp-content/plugins/js_composer/assets/js/js_composer_front.js?ver=4.8.1'></script>
+<script type='text/javascript' src='http://zetaplan.com/wp-content/plugins/js_composer/assets/lib/vc_accordion/vc-accordion.js?ver=4.8.1'></script>
+<script type='text/javascript' src='http://zetaplan.com/wp-content/plugins/js_composer/assets/lib/vc-tta-autoplay/vc-tta-autoplay.js?ver=4.8.1'></script>
+<script type='text/javascript' src='http://zetaplan.com/wp-content/plugins/js_composer/assets/lib/vc_tabs/vc-tabs.js?ver=4.8.1'></script>
+</body>
+</html>
